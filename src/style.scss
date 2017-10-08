@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  background-color:lightgray;
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 130px;
+}
+
+.flat {
+  width: 285px;
+  font-size: 30px;
+  font-family: inherit;
+  text-align: center;
+  border: none;
+  box-shadow: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.btn {
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #2ecc71;
+}
+
+.btn:hover {
+  color: #ffffff;
+  background-color: #58d68d;
+  border-color: #58d68d;
+}
+
+.btn:disabled {
+  background-color: #bdc3c7;
+  border-color: #bdc3c7;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.btn:active {
+  background: #27ad60;
+  border-color: #27ad60;
+}
+
+.board {
+  background: white;
+  border: 10px solid grey;
+  border-radius: 20px;
+  position: absolute;
+  top: 30px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.entity{
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.player {
+  background-image: url('/mario.png');
+}
+
+.mushroom{
+  background-image: url('/mushroom.jpg');
+}
