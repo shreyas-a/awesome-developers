@@ -22,7 +22,9 @@ class App extends Component {
           -1 ||
         item.github.toLowerCase().search(event.target.value.toLowerCase()) !==
           -1 ||
-        item.city.toLowerCase().search(event.target.value.toLowerCase()) !== -1
+        item.city.toLowerCase().search(event.target.value.toLowerCase()) !==
+          -1 ||
+        item.skills.find(s => s.includes(event.target.value.toLowerCase()))
       );
     });
     this.setState({ developers: updatedList });
@@ -45,17 +47,22 @@ class App extends Component {
         />
         <div>
           <p>A curated list of awesome developers.</p>
-          <ul>
+          <div className="developer-list">
             {this.state.developers.map((developer, index) => (
-              <li key={index}>
+              <div className="developer" key={index}>
+                <img
+                  src={`https://avatars.githubusercontent.com/${developer.github}`}
+                  className="profile-image"
+                  alt="Profile Image"
+                />
                 <div>{developer.name}</div>
-                <div>{developer.technologies.join(", ")}</div>
+                <div>{developer.skills.join(", ")}</div>
                 <div>{developer.company}</div>
                 <div>{developer.city}</div>
                 <div>{developer.github}</div>
-              </li>
+              </div>
             ))}
-          </ul>
+          </div>
         </div>
       </div>
     );
