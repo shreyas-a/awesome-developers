@@ -32,7 +32,7 @@ module.exports = {
   plugins: [
     new clean(["dist"], { root: process.cwd(), verbose: true }),
     new html({
-      template: "./index.html",
+      template: "./public/index.html",
       inject: "body"
     }),
     new webpack.HashedModuleIdsPlugin(),
