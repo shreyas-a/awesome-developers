@@ -1,2 +1,1 @@
-# mario
-React powered Mario Game
+# awesome-developers
