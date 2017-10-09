@@ -1,27 +1,30 @@
 import React, { Component } from "react";
 
-import developers from "../developers.js";
+import developers from "../../developers.js";
 
 class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
       developers: [],
-      search: {
-        name: "",
-        technology: "",
-        company: "",
-        city: ""
-      }
+      search: ""
     };
   }
 
-  filterByName(event) {
+  searchDeveloper(event) {
     let updatedList = developers;
-    updatedList = updatedList.filter(
-      item =>
-        item.name.toLowerCase().search(event.target.value.toLowerCase()) !== -1
-    );
+    updatedList = updatedList.filter(item => {
+      // TODO: A better comparison condition
+      return (
+        item.name.toLowerCase().search(event.target.value.toLowerCase()) !==
+          -1 ||
+        item.company.toLowerCase().search(event.target.value.toLowerCase()) !==
+          -1 ||
+        item.github.toLowerCase().search(event.target.value.toLowerCase()) !==
+          -1 ||
+        item.city.toLowerCase().search(event.target.value.toLowerCase()) !== -1
+      );
+    });
     this.setState({ developers: updatedList });
   }
 
@@ -37,13 +40,9 @@ class App extends Component {
         <h1>Awesome Developers</h1>
         <input
           type="text"
-          placeholder="Name"
-          onChange={this.filterByName.bind(this)}
+          placeholder="Search"
+          onChange={this.searchDeveloper.bind(this)}
         />
-        <input type="text" placeholder="Technology" />
-        <input type="text" placeholder="Company" />
-        <input type="text" placeholder="City" />
-
         <div>
           <p>A curated list of awesome developers.</p>
           <ul>
@@ -53,6 +52,7 @@ class App extends Component {
                 <div>{developer.technologies.join(", ")}</div>
                 <div>{developer.company}</div>
                 <div>{developer.city}</div>
+                <div>{developer.github}</div>
               </li>
             ))}
           </ul>
