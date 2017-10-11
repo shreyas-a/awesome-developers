@@ -30,5 +30,13 @@
     "city": "Bangalore",
     "github": "jazzyarchitects",
     "email": "jibinmathews7@gmail.com"
+  },
+  {
+    "name": "Dragan Theodora-Augustina",
+    "company": "Student at University Politehnica of Bucharest",
+    "skills": ["Java", "C", "Python", "Javascript"],
+    "city": "Bucharest",
+    "github": "theodoradragan",
+    "email": "theoa.dragan@yahoo.com"
   }
 ]
