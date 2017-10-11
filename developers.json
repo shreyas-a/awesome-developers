@@ -46,5 +46,13 @@
     "city": "Bucharest",
     "github": "theodoradragan",
     "email": "theoa.dragan@yahoo.com"
-  }
+  },
+  {
+    "name": "Saras Arya",
+    "company": "Rentomojo",
+    "skills": ["javascript", "angular", "react", "node", "webpack"],
+    "city": "Bangalore",
+    "github": "SarasArya",
+    "email": "saras.arya@gmail.com"
+  },
 ]
