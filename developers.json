@@ -46,5 +46,13 @@
     "city": "Bucharest",
     "github": "theodoradragan",
     "email": "theoa.dragan@yahoo.com"
+  },
+  {
+    "name": "Sagar Kalra",
+    "company": "Student at UIET,Panjab University",
+    "skills": ["C++", "C", "Python", "PHP", "SQL"],
+    "city": "Chandigarh, India",
+    "github": "sagar-kalra",
+    "email": "sagar.kalra98@hotmail.com"
   }
 ]
