@@ -10,7 +10,7 @@
   {
     "name": "Shravan Kumar",
     "company": "Rentomojo",
-    "skills": ["SQL","HTML","javascript","CSS"],
+    "skills": ["SQL","HTML","javascript","Corel Draw"],
     "city": "Bangalore",
     "github": "shra1cumar",
     "email": "shravanyellishetty@gmail.com"
@@ -54,5 +54,13 @@
     "city": "Buenos Aires",
     "github": "dosten",
     "email": "diego@saintesteben.me"
+  },
+  {
+    "name": "Henrik Bergqvist",
+    "company": "Alektum Group AB",
+    "skills": ["C#", "T-SQL", "MVC", ".Net"],
+    "city": "Gothenburg",
+    "github": "hbbq",
+    "email": "mail@henrikbergqvist.com"
   }
 ]
