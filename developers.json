@@ -48,6 +48,14 @@
     "email": "theoa.dragan@yahoo.com"
   },
   {
+    "name": "Kavan Pancholi",
+    "company": "Brokergenius",
+    "skills": ["PHP", "Laravel", "Javascript", "NodeJS", "HTML", "CSS"],
+    "city": "Ahmedabad",
+    "github": "kavanpancholi",
+    "email": "kavanpancholi@gmail.com"
+  },
+  {
     "name": "Sifat",
     "company": "Student at Institute Of Science and Technology",
     "skills": ["PHP", "Javascript", "CSS3", "HTML5", "Machine Learning"],
