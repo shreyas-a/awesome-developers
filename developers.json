@@ -30,5 +30,13 @@
     "city": "Bangalore",
     "github": "jazzyarchitects",
     "email": "jibinmathews7@gmail.com"
+  },
+  {
+    "name": "Cristiano Santos",
+    "company": "DrFarm",
+    "skills": ["Ruby", "Javascript", "NodeJs", "Python", "R", "Machine Learning", "Data Analysis", "Docker"],
+    "city": "Salvador, Bahia, Brazil",
+    "github": "cristianossd",
+    "email": "cristianossd@gmail.com"
   }
 ]
