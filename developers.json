@@ -14,5 +14,13 @@
     "city": "Bangalore",
     "github": "shra1cumar",
     "email": "shravanyellishetty@gmail.com"
+  },
+  {
+    "name": "Shankar Gangadhar",
+    "company": "Rentomojo",
+    "skills": ["Html", "Javascript", "Angular", "Scss", "webpack", "vue", "grunt"],
+    "city": "Bangalore",
+    "github": "sgangadhar02",
+    "email": "sgangadhar02@gmail.com"
   }
 ]
