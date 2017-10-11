@@ -10,7 +10,7 @@
   {
     "name": "Shravan Kumar",
     "company": "Rentomojo",
-    "skills": ["SQL","HTML","javascript","CSS"],
+    "skills": ["SQL","HTML","javascript","Corel Draw"],
     "city": "Bangalore",
     "github": "shra1cumar",
     "email": "shravanyellishetty@gmail.com"
@@ -54,5 +54,37 @@
     "city": "Newcastle upon Tyne, United Kingdom",
     "github": "jamieburnip",
     "email": "jamieburnip@gmail.com"
+  },
+  {
+    "name": "Kavan Pancholi",
+    "company": "Brokergenius",
+    "skills": ["PHP", "Laravel", "Javascript", "NodeJS", "HTML", "CSS"],
+    "city": "Ahmedabad",
+    "github": "kavanpancholi",
+    "email": "kavanpancholi@gmail.com"
+  },
+  {
+    "name": "Sifat",
+    "company": "Student at Institute Of Science and Technology",
+    "skills": ["PHP", "Javascript", "CSS3", "HTML5", "Machine Learning"],
+    "city": "Dhaka",
+    "github": "sifat009",
+    "email": "bhacker150@gmail.com"
+  },
+  {
+    "name": "Diego Saint Esteben",
+    "company": "Student at University of Buenos Aires",
+    "skills": ["Go", "PHP", "Python", "Javascript"],
+    "city": "Buenos Aires",
+    "github": "dosten",
+    "email": "diego@saintesteben.me"
+  },
+  {
+    "name": "Henrik Bergqvist",
+    "company": "Alektum Group AB",
+    "skills": ["C#", "T-SQL", "MVC", ".Net"],
+    "city": "Gothenburg",
+    "github": "hbbq",
+    "email": "mail@henrikbergqvist.com"
   }
 ]
