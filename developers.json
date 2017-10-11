@@ -46,5 +46,13 @@
     "city": "Bucharest",
     "github": "theodoradragan",
     "email": "theoa.dragan@yahoo.com"
+  },
+  {
+    "name": "Kavan Pancholi",
+    "company": "Brokergenius",
+    "skills": ["PHP", "Laravel", "Javascript", "NodeJS", "HTML", "CSS"],
+    "city": "Ahmedabad",
+    "github": "kavanpancholi",
+    "email": "kavanpancholi@gmail.com"
   }
 ]
