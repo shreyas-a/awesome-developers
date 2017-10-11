@@ -46,5 +46,13 @@
     "city": "Bucharest",
     "github": "theodoradragan",
     "email": "theoa.dragan@yahoo.com"
+  },
+  {
+    "name": "David Becker",
+    "company": "Student at DeltaV Code School in Cedar Rapids Iowa ",
+    "skills": ["Javascript", "NodeJS", "C#", ".Net", "TDD"],
+    "city": "Cedar Rapids, Iowa",
+    "github": "Meepedy",
+    "email": "david@psyon.org"
   }
 ]
