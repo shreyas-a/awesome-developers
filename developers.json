@@ -46,5 +46,13 @@
     "city": "Bucharest",
     "github": "theodoradragan",
     "email": "theoa.dragan@yahoo.com"
+  },
+  {
+    "name": "Sifat",
+    "company": "Student at Institute Of Science and Technology",
+    "skills": ["PHP", "Javascript", "CSS3", "HTML5", "Machine Learning"],
+    "city": "Dhaka",
+    "github": "sifat009",
+    "email": "bhacker150@gmail.com"
   }
 ]
