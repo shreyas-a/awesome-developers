@@ -22,5 +22,13 @@
     "city": "Bangalore",
     "github": "sgangadhar02",
     "email": "sgangadhar02@gmail.com"
+  },
+  {
+    "name": "Jibin Mathews",
+    "company": "Rentomojo",
+    "skills": ["Html", "Javascript", "NodeJS", "Electron", "Android", "React", "Angular"],
+    "city": "Bangalore",
+    "github": "jazzyarchitects",
+    "email": "jibinmathews7@gmail.com"
   }
 ]
