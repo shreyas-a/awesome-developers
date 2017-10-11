@@ -38,5 +38,13 @@
     "city": "Salvador, Bahia, Brazil",
     "github": "cristianossd",
     "email": "cristianossd@gmail.com"
+  },
+  {
+    "name": "Dragan Theodora-Augustina",
+    "company": "Student at University Politehnica of Bucharest",
+    "skills": ["Java", "C", "Python", "Javascript"],
+    "city": "Bucharest",
+    "github": "theodoradragan",
+    "email": "theoa.dragan@yahoo.com"
   }
 ]
