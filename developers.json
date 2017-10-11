@@ -46,5 +46,13 @@
     "city": "Bucharest",
     "github": "theodoradragan",
     "email": "theoa.dragan@yahoo.com"
+  },
+  {
+    "name": "Jamie Burnip",
+    "company": "Web Developer @ Opia Ltd",    
+    "skills": ["HTML", "CSS", "SCSS" "PHP", "Javascript", "Vue.JS"],
+    "city": "Newcastle upon Tyne, United Kingdom",
+    "github": "jamieburnip",
+    "email": "jamieburnip@gmail.com"
   }
 ]
