@@ -46,5 +46,13 @@
     "city": "Bucharest",
     "github": "theodoradragan",
     "email": "theoa.dragan@yahoo.com"
+  },
+  {
+    "name": "Harshil Agrawal",
+    "company": "Student at SVIT, Vasad",
+    "skills": ["PHP", "C", "Ruby", "Javascript","HTML","CSS"],
+    "city": "Vadodara",
+    "github": "harshil1712",
+    "email": "ghagrawal17@gmail.com"
   }
 ]
