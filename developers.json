@@ -32,6 +32,14 @@
     "email": "jibinmathews7@gmail.com"
   },
   {
+    "name": "Cristiano Santos",
+    "company": "DrFarm",
+    "skills": ["Ruby", "Javascript", "NodeJs", "Python", "R", "Machine Learning", "Data Analysis", "Docker"],
+    "city": "Salvador, Bahia, Brazil",
+    "github": "cristianossd",
+    "email": "cristianossd@gmail.com"
+  },
+  {
     "name": "Dragan Theodora-Augustina",
     "company": "Student at University Politehnica of Bucharest",
     "skills": ["Java", "C", "Python", "Javascript"],
