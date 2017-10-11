@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import developers from "../../developers.js";
+let developers = [];
 
 class App extends Component {
   constructor(props) {
@@ -9,6 +9,26 @@ class App extends Component {
       developers: [],
       search: ""
     };
+  }
+
+  componentDidMount() {
+    let userName = "shreyas-a";
+    if (location.host && location.host.indexOf(".github.io") !== -1) {
+      userName = location.host.split(".github.io")[0];
+    }
+
+    fetch(
+      `https://api.github.com/repos/${userName}/awesome-developers/contents/developers.json`
+    )
+      .then(response => response.json())
+      .then(jsonResponse => atob(jsonResponse.content))
+      .then(contentResponse => JSON.parse(contentResponse))
+      .then(developersResponse => {
+        developers = developersResponse;
+        this.setState({
+          developers
+        });
+      });
   }
 
   searchDeveloper(event) {
