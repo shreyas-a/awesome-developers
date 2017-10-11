@@ -55,6 +55,71 @@
     "github": "SarasArya",
     "email": "saras.arya@gmail.com"
   },
+  {
+    "name": "Roberta de Medeiros Fernandes",
+    "company": "SERPRO",
+    "skills": ["Java", "NodeJs", "Html", "Javascript"],
+    "city": "Recife",
+    "github": "theodoradragan",
+    "email": "roberta.fernandes@gmail.com"
+  },
+  {
+    "name": "David Becker",
+    "company": "Student at DeltaV Code School in Cedar Rapids Iowa ",
+    "skills": ["Javascript", "NodeJS", "C#", ".Net", "TDD"],
+    "city": "Cedar Rapids, Iowa",
+    "github": "Meepedy",
+    "email": "david@psyon.org"
+  },
+  {
+    "name": "Sagar Kalra",
+    "company": "Student at UIET,Panjab University",
+    "skills": ["C++", "C", "Python", "PHP", "SQL"],
+    "city": "Chandigarh, India",
+    "github": "sagar-kalra",
+    "email": "sagar.kalra98@hotmail.com"
+  },
+  {
+    "name": "Harshil Agrawal",
+    "company": "Student at SVIT, Vasad",
+    "skills": ["PHP", "C", "Ruby", "Javascript","HTML","CSS"],
+    "city": "Vadodara",
+    "github": "harshil1712",
+    "email": "ghagrawal17@gmail.com"
+  },
+  {
+    "name": "Jamie Burnip",
+    "company": "Web Developer @ Opia Ltd",    
+    "skills": ["HTML", "CSS", "SCSS" "PHP", "Javascript", "Vue.JS"],
+    "city": "Newcastle upon Tyne, United Kingdom",
+    "github": "jamieburnip",
+    "email": "jamieburnip@gmail.com"
+  },
+  {
+    "name": "Kavan Pancholi",
+    "company": "Brokergenius",
+    "skills": ["PHP", "Laravel", "Javascript", "NodeJS", "HTML", "CSS"],
+    "city": "Ahmedabad",
+    "github": "kavanpancholi",
+    "email": "kavanpancholi@gmail.com"
+  },
+  {
+    "name": "Sifat",
+    "company": "Student at Institute Of Science and Technology",
+    "skills": ["PHP", "Javascript", "CSS3", "HTML5", "Machine Learning"],
+    "city": "Dhaka",
+    "github": "sifat009",
+    "email": "bhacker150@gmail.com"
+  },
+  {
+    "name": "Diego Saint Esteben",
+    "company": "Student at University of Buenos Aires",
+    "skills": ["Go", "PHP", "Python", "Javascript"],
+    "city": "Buenos Aires",
+    "github": "dosten",
+    "email": "diego@saintesteben.me"
+  },
+  {
     "name": "Henrik Bergqvist",
     "company": "Alektum Group AB",
     "skills": ["C#", "T-SQL", "MVC", ".Net"],
