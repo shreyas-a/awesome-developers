@@ -55,4 +55,11 @@
     "github": "SarasArya",
     "email": "saras.arya@gmail.com"
   },
+    "name": "Henrik Bergqvist",
+    "company": "Alektum Group AB",
+    "skills": ["C#", "T-SQL", "MVC", ".Net"],
+    "city": "Gothenburg",
+    "github": "hbbq",
+    "email": "mail@henrikbergqvist.com"
+  }
 ]
