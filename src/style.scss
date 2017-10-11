@@ -1,17 +1,140 @@
-.developer-list{
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
 
-.developer{
-  border: 1px solid grey;
-  border-radius: 10px;
-  padding: 10px;
-  margin: 10px;
-  width: 30%;
+// Mixins
+@mixin tag($bg-color) {
+  background: $bg-color;
+  border-radius: 5px 0 0 5px;
+  color: #fff;
+  font-size: 11px;
   display: inline-block;
+  height: 25px;
+  line-height: 26px;
+  padding: 1px 12px 0 15px;
+  position: relative;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+  text-transform: uppercase;
+  margin: 5px;
+  border-bottom: 0;
+  &::before {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+    content: '';
+    height: 6px;
+    left: 5px;
+    position: absolute;
+    width: 6px;
+    top: 10px;
+  }
+  &::after {
+    background: #fff;
+    border-bottom: 13px solid transparent;
+    border-left: 10px solid $bg-color;
+    border-top: 13px solid transparent;
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+}
+// Mixins end
+
+body {
+  font-family: 'Roboto', sans-serif;
 }
 
-.profile-image{
+.hd1 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 300;
+  small {
+    font-size: 18px;
+    font-weight: 100;
+  }
+}
+
+.developer-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(25em, 1fr));;
+  grid-gap: 25px;
+}
+
+.developer {
+  border-radius: 5px;
+  border: solid 1px #e2e2e2;
+  padding: 20px 15px;
+  margin: 5px;
+  display: inline-block;
+  box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
+}
+
+.profile-image {
   width: 50px;
   border-radius: 30px;
+}
+
+.search-div {
+  text-align: center;
+  margin: 30px auto;
+  .search {
+    outline: none;
+    border-radius: 3px;
+    border: solid 1px #ccc;
+    padding: 0 10px;
+    height: 35px;
+    font-size: 16px;
+    font-weight: 300;
+    width: 400px;
+  }
+}
+
+.dev {
+  display: flex;
+  .dev-avatar {
+    flex: 1.5;
+    text-align: center;
+  }
+  .dev-desc {
+    flex: 5;
+    .dev--name {
+      font-size: 18px;
+      font-weight: 300;
+    }
+    %basic-text {
+      color: #313131;
+      font-size: 15px;
+      font-weight: 300;
+    }
+    .dev-company {
+      @extend %basic-text;
+    }
+    .dev--company {
+      @extend %basic-text;
+      margin-top: 10px;
+    }
+    .dev--city {
+      @extend %basic-text;
+    }
+    .dev--email {
+      @extend %basic-text;
+    }
+  }
+  .dev--social {
+    flex: 1;
+    text-align: right;
+    align-self: start;
+    margin-top: -10px;
+    img {
+      margin: 10px 0;
+      width: 25px;
+    }
+  }
+}
+
+.dev--skills {
+  margin-top: 15px;
+  span {
+    @include tag(#2196f3);
+  }
 }
