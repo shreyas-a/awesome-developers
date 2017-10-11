@@ -46,5 +46,13 @@
     "city": "Bucharest",
     "github": "theodoradragan",
     "email": "theoa.dragan@yahoo.com"
+  },
+  {
+    "name": "Roberta de Medeiros Fernandes",
+    "company": "SERPRO",
+    "skills": ["Java", "NodeJs", "Html", "Javascript"],
+    "city": "Recife",
+    "github": "theodoradragan",
+    "email": "roberta.fernandes@gmail.com"
   }
 ]
