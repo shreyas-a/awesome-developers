@@ -54,5 +54,21 @@
     "city": "Dhaka",
     "github": "sifat009",
     "email": "bhacker150@gmail.com"
+  },
+  {
+    "name": "Diego Saint Esteben",
+    "company": "Student at University of Buenos Aires",
+    "skills": ["Go", "PHP", "Python", "Javascript"],
+    "city": "Buenos Aires",
+    "github": "dosten",
+    "email": "diego@saintesteben.me"
+  },
+  {
+    "name": "Henrik Bergqvist",
+    "company": "Alektum Group AB",
+    "skills": ["C#", "T-SQL", "MVC", ".Net"],
+    "city": "Gothenburg",
+    "github": "hbbq",
+    "email": "mail@henrikbergqvist.com"
   }
 ]
