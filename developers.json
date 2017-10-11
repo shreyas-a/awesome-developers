@@ -38,5 +38,13 @@
     "city": "Bucharest",
     "github": "theodoradragan",
     "email": "theoa.dragan@yahoo.com"
+  },
+  {
+    "name": "Henrik Bergqvist",
+    "company": "Alektum Group AB",
+    "skills": ["C#", "T-SQL", "MVC", ".Net"],
+    "city": "Gothenburg",
+    "github": "hbbq",
+    "email": "mail@henrikbergqvist.com"
   }
 ]
