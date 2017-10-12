@@ -97,7 +97,7 @@
   },
   {
     "name": "Jamie Burnip",
-    "company": "Web Developer @ Opia Ltd",    
+    "company": "Web Developer @ Opia Ltd",
     "skills": ["HTML", "CSS", "SCSS", "PHP", "Javascript", "Vue.JS"],
     "city": "Newcastle upon Tyne, United Kingdom",
     "github": "jamieburnip",
@@ -134,5 +134,13 @@
     "city": "Gothenburg",
     "github": "hbbq",
     "email": "mail@henrikbergqvist.com"
+  },
+  {
+    "name": "Miguel Alfredo Garcia",
+    "company": "Icalialabs",
+    "skills": ["Ruby", "Javascript", "Ionic", "Docker", "NodeJS"],
+    "city": "Monterrey",
+    "github": "miguejs",
+    "email": "imiked.mail@gmail.com"
   }
 ]
