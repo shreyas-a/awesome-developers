@@ -1,4 +1,7 @@
+// Imports
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
 
 // Mixins
 @mixin tag($bg-color) {
@@ -16,6 +19,7 @@
   text-transform: uppercase;
   margin: 5px;
   border-bottom: 0;
+  user-select: none;
   &::before {
     background: #fff;
     border-radius: 10px;
@@ -48,30 +52,14 @@ body {
   text-align: center;
   font-size: 30px;
   font-weight: 300;
-  small {
-    font-size: 18px;
-    font-weight: 100;
-  }
+  transition: 0.4s all ease;
 }
 
-.developer-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(25em, 1fr));;
-  grid-gap: 25px;
-}
-
-.developer {
-  border-radius: 5px;
-  border: solid 1px #e2e2e2;
-  padding: 20px 15px;
-  margin: 5px;
-  display: inline-block;
-  box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
-}
-
-.profile-image {
-  width: 50px;
-  border-radius: 30px;
+.hd-small {
+  font-size: 18px;
+  font-weight: 100;
+  text-align: center;
+  margin: 10px 0;
 }
 
 .search-div {
@@ -80,7 +68,7 @@ body {
   .search {
     outline: none;
     border-radius: 3px;
-    border: solid 1px #ccc;
+    border: solid 1px #dcdcdc;
     padding: 0 10px;
     height: 35px;
     font-size: 16px;
@@ -88,6 +76,29 @@ body {
     width: 400px;
   }
 }
+
+.developer-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(32%, 1fr));
+  grid-gap: 25px;
+}
+
+.developer {
+  border-radius: 5px;
+  border: solid 1px #dcdcdc;
+  padding: 20px 15px;
+  margin: 5px;
+  transition: 0.2s all ease;
+  &:hover {
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
+  }
+}
+
+.profile-image {
+  width: 50px;
+  border-radius: 30px;
+}
+
 
 .dev {
   display: flex;
@@ -136,5 +147,26 @@ body {
   margin-top: 15px;
   span {
     @include tag(#2196f3);
+  }
+}
+
+.footer {
+  font-family: 'Satisfy', cursive;
+  text-align: center;
+  margin: 30px 0;
+  .heart {
+    color: #f44336;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .developer-list {
+    grid-template-columns: repeat(2, minmax(48%, 1fr));
+  }
+}
+
+@media screen and (max-width: 798px) {
+  .developer-list {
+    grid-template-columns: repeat(2, minmax(100%, 1fr));
   }
 }
