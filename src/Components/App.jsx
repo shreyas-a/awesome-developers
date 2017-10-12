@@ -78,7 +78,7 @@ class App extends Component {
         <div>
           {this.state.isLoading ?
             <div className="center">
-              <img src="/loader.gif" className="loader" alt="loader" />
+              <img src="loader.gif" className="loader" alt="loader" />
             </div> :
             <div className="developer-list">
               {this.state.developers.map((developer, index) => (
