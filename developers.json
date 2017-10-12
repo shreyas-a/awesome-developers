@@ -158,5 +158,29 @@
     "city": "Taipei",
     "github": "changhc",
     "email": "changhc84@gmail.com"
+  },
+  {
+    "name": "Emmanuel Akinde",
+    "company": "Student",
+    "skills": ["PHP", "React-Native", "NodeJS","ReactJS","VueJS",],
+    "city": "Lagos, Nigeria",
+    "github": "harkindey",
+    "email": "ibukunbamise@yahoo.com"
+  },
+  {
+    "name": "Thomas Hockaday",
+    "company": "Opia",
+    "skills": ["HTML", "Javascript", "CSS", "PHP"],
+    "city": "Newcastle",
+    "github": "thomashockaday",
+    "email": "thomashockaday95@gmail.com"
+  },
+  {
+    "name": "Mob",
+    "company": "Student at Siam University",
+    "skills": ["Javascript", "Ionic", "NodeJS"],
+    "city": "Bangkok",
+    "github": "MobGG",
+    "email": "tammanoon24@gmail.com"
   }
 ]
