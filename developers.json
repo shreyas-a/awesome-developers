@@ -152,6 +152,14 @@
     "email": "imiked.mail@gmail.com"
   },
   {
+    "name": "Emmanuel Akinde",
+    "company": "Student",
+    "skills": ["PHP", "React-Native", "NodeJS","ReactJS","VueJS",],
+    "city": "Lagos, Nigeria",
+    "github": "harkindey",
+    "email": "ibukunbamise@yahoo.com"
+  },
+  {
     "name": "Thomas Hockaday",
     "company": "Opia",
     "skills": ["HTML", "Javascript", "CSS", "PHP"],
