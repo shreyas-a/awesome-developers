@@ -144,6 +144,14 @@
     "email": "mail@henrikbergqvist.com"
   },
   {
+    "name": "Chainarong Tangsurakit",
+    "company": "HotelQuickly",
+    "skills": ["PHP", "Node.JS", "Javascript", "React", "DevOps"],
+    "city": "Bangkok",
+    "github": "chaintng",
+    "email": "chaintng@gmail.com"
+  },
+  {
     "name": "Miguel Alfredo Garcia",
     "company": "Icalialabs",
     "skills": ["Ruby", "Javascript", "Ionic", "Docker", "NodeJS"],
