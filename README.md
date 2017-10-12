@@ -34,16 +34,16 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 
 For example:
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/this-is-you/awesome-developers.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the awesome-developers repository in GitHub to your computer.
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd awesome-developers
 ```
 Now create a branch using the `git checkout` command:
 ```
@@ -52,20 +52,20 @@ git checkout -b <add-your-name>
 
 For example:
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-your-name
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
+Now open `developers.json` file in a text editor, add your name to it, and then save the file. If you go to the project directory and execute the command `git status`, you'll see there are changes. Add those changes to the branch you just created using the `git add` command:
 ```
-git add Contributors.md
+git add developers.json
 ```
 
 Now commit those changes using the `git commit` command:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <your-name> to developers list"
 ```
 replacing `<your-name>` with your name.
 
