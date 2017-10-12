@@ -95,7 +95,7 @@ class App extends Component {
                       <div className="dev--name">{developer.name}</div>
                       <div className="dev--company">{developer.company}</div>
                       <div className="dev--city">{developer.city}</div>
-                      <div className="dev--email">{developer.email}</div>
+                      <div className="dev--email"><a href={`mailto:${developer.email}`} target="_top">{developer.email}</a></div>
                     </div>
                     <div className="dev--social">
                       <a href={`https://github.com/${developer.github}`} target="_blank">
