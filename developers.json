@@ -152,6 +152,14 @@
     "email": "imiked.mail@gmail.com"
   },
   {
+    "name": "Thomas Hockaday",
+    "company": "Opia",
+    "skills": ["HTML", "Javascript", "CSS", "PHP"],
+    "city": "Newcastle",
+    "github": "thomashockaday",
+    "email": "thomashockaday95@gmail.com"
+  },
+  {
     "name": "Mob",
     "company": "Student at Siam University",
     "skills": ["Javascript", "Ionic", "NodeJS"],
