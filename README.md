@@ -2,6 +2,10 @@
 
 _Inspired by Awesome * Lists_
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/xFc3nQ2wJ6dn4kKJ5NCouB5B/shreyas-a/awesome-developers'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/xFc3nQ2wJ6dn4kKJ5NCouB5B/shreyas-a/awesome-developers.svg' />
+</a>
+
 Add yourself in the awesome developers list.
 
 
@@ -96,8 +100,3 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 
 If you got anything to say, find me on twitter [@shreyas_a](https://twitter.com/shreyas_a).
-
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/xFc3nQ2wJ6dn4kKJ5NCouB5B/shreyas-a/awesome-developers'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/xFc3nQ2wJ6dn4kKJ5NCouB5B/shreyas-a/awesome-developers.svg' />
-</a>
