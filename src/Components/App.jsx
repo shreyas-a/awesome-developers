@@ -51,11 +51,8 @@ class App extends Component {
     return (
       <div>
         <br />
-        <div className="hd1">
-          Awesome Developers
-          <br />
-          <small>Curated list of awesome dev's Around the World</small>
-        </div>
+        <div className="hd1"> Awesome Developers </div>
+        <div className="hd-small">Curated list of awesome dev's Around the World</div>
 
         <div className="search-div">
           <input
@@ -98,6 +95,10 @@ class App extends Component {
               </div>
             ))}
           </div>
+        </div>
+        
+        <div className="footer">
+          Crafted with <span className="heart">♥</span> in Bangalore, India
         </div>
 
       </div>

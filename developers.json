@@ -32,6 +32,14 @@
     "email": "jibinmathews7@gmail.com"
   },
   {
+    "name": "Ashwin K Shenoy",
+    "company": "Rentomojo",
+    "skills": ["HTML", "Javascript", "NodeJS", "CSS", "Angular", "Vue.JS", "PHP", "SQL", "Rails"],
+    "city": "Bangalore",
+    "github": "ashwinkshenoy",
+    "email": "ashwinkshenoy@gmail.com"
+  },
+  {
     "name": "Cristiano Santos",
     "company": "DrFarm",
     "skills": ["Ruby", "Javascript", "NodeJs", "Python", "R", "Machine Learning", "Data Analysis", "Docker"],
