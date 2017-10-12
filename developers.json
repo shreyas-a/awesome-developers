@@ -8,6 +8,14 @@
     "email": "shreyas.a24@gmail.com"
   },
   {
+    "name": "Aleš Kalan",
+    "company": "-",
+    "skills": ["javascript", "php", "autoit", "node", "automation"],
+    "city": "Novo Mesto",
+    "github": "SloRunner",
+    "email": "slo.runner.samp@gmail.com"
+  },
+  {
     "name": "Shravan Kumar",
     "company": "Rentomojo",
     "skills": ["SQL","HTML","JavaScript","Corel Draw"],
