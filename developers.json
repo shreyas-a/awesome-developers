@@ -150,5 +150,13 @@
     "city": "Monterrey",
     "github": "miguejs",
     "email": "imiked.mail@gmail.com"
+  },
+  {
+    "name": "Jirayu Photisan",
+    "company": "Tom and friends",
+    "skills": ["Java", "Javascript", "Angular", "Docker", "NodeJS"],
+    "city": "Bangkok",
+    "github": "gdunghi",
+    "email": "gdunghi@gmail.com"
   }
 ]
