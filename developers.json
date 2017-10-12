@@ -150,5 +150,13 @@
     "city": "Monterrey",
     "github": "miguejs",
     "email": "imiked.mail@gmail.com"
+  },
+  {
+    "name": "Witaya Tospitakkul",
+    "company": "Advanced Info Service",
+    "skills": ["Java", "Javascript", "Typescript", "Docker", "NodeJS", "Golang", "Angular", "React", "Kotlin"],
+    "city": "Bangkok",
+    "github": "wtospit",
+    "email": "witaya1412@gmail.com"
   }
 ]
