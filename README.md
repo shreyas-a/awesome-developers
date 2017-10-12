@@ -11,6 +11,7 @@ Add yourself in the awesome developers list.
 if you are new in contribution then just follow the simple steps below. We promise you, it will be fun.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
+
 ## Fork this repository
 
 Fork this repo by clicking on the fork button on the top of this page.
