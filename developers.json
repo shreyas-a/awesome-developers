@@ -152,6 +152,14 @@
     "email": "imiked.mail@gmail.com"
   },
   {
+    "name": "Akshay Kumar",
+    "company": "Student at Panjab University",
+    "skills": ["SQL","C++","java","C","XML"],
+    "city": "Chandigarh",
+    "github": "AkshayCHD",
+    "email": "email.akshay98@gmail.com"
+  },
+  {
     "name": "Huan-Cheng Chang",
     "company": "Student at Natinonal Taiwan University",
     "skills": ["Python", "NLP", "JavaScript", "NodeJS", "ReactJS"],
