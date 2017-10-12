@@ -152,6 +152,14 @@
     "email": "imiked.mail@gmail.com"
   },
   {
+    "name": "Witaya Tospitakkul",
+    "company": "Advanced Info Service",
+    "skills": ["Java", "Javascript", "Typescript", "Docker", "NodeJS", "Golang", "Angular", "React", "Kotlin"],
+    "city": "Bangkok",
+    "github": "wtospit",
+    "email": "witaya1412@gmail.com"
+  },
+  {
     "name": "Akshay Kumar",
     "company": "Student at Panjab University",
     "skills": ["SQL","C++","java","C","XML"],
