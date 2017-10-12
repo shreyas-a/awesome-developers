@@ -48,6 +48,14 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.center{
+  text-align: center;
+}
+
+.loader{
+  height: 60px;
+}
+
 .hd1 {
   text-align: center;
   font-size: 30px;
@@ -135,7 +143,6 @@ body {
     flex: 1;
     text-align: right;
     align-self: start;
-    margin-top: -10px;
     img {
       margin: 10px 0;
       width: 25px;

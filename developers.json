@@ -158,5 +158,13 @@
     "city": "Newcastle",
     "github": "thomashockaday",
     "email": "thomashockaday95@gmail.com"
+  },
+  {
+    "name": "Mob",
+    "company": "Student at Siam University",
+    "skills": ["Javascript", "Ionic", "NodeJS"],
+    "city": "Bangkok",
+    "github": "MobGG",
+    "email": "tammanoon24@gmail.com"
   }
 ]
