@@ -150,5 +150,13 @@
     "city": "Monterrey",
     "github": "miguejs",
     "email": "imiked.mail@gmail.com"
+  },
+    {
+    "name": "Abid Rakhmansyah",
+    "company": "Karimunia",
+    "skills": ["Ruby", "Javascript", "Laravel", "Docker", "NodeJS", "C++", "React"],
+    "city": "Jakarta",
+    "github": "abidra",
+    "email": "bidnth@gmail.com"
   }
 ]
