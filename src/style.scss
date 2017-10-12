@@ -79,7 +79,7 @@ body {
 
 .developer-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(32%, 0fr));;
+  grid-template-columns: repeat(3, minmax(32%, 1fr));
   grid-gap: 25px;
 }
 
@@ -88,7 +88,6 @@ body {
   border: solid 1px #dcdcdc;
   padding: 20px 15px;
   margin: 5px;
-  display: inline-block;
   transition: 0.2s all ease;
   &:hover {
     box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
@@ -160,8 +159,14 @@ body {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
   .developer-list {
-    grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
+    grid-template-columns: repeat(2, minmax(48%, 1fr));
+  }
+}
+
+@media screen and (max-width: 798px) {
+  .developer-list {
+    grid-template-columns: repeat(2, minmax(100%, 1fr));
   }
 }
