@@ -1,6 +1,15 @@
 import React, { Component } from "react";
 
 let developers = [];
+const shuffle = (a) => {
+  const arr = a;
+  for (let i = a.length; i; i -= 1) {
+    const j = Math.floor(Math.random() * i);
+    [arr[i - 1], arr[j]] = [arr[j], arr[i - 1]];
+  }
+
+  return arr;
+}
 
 class App extends Component {
   constructor(props) {
@@ -21,10 +30,11 @@ class App extends Component {
       .then(jsonResponse => atob(jsonResponse.content))
       .then(contentResponse => JSON.parse(contentResponse))
       .then(developersResponse => {
-        developers = developersResponse;
+        const shuffledDevelopers = shuffle(developersResponse);
+        developers = shuffledDevelopers;
         this.setState({
           isLoading: false,
-          developers
+          developers: shuffledDevelopers
         });
       });
   }
