@@ -79,7 +79,7 @@ body {
 
 .developer-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(32%, 1fr));;
+  grid-template-columns: repeat(auto-fit, minmax(32%, 0fr));;
   grid-gap: 25px;
 }
 
@@ -92,7 +92,6 @@ body {
   transition: 0.2s all ease;
   &:hover {
     box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
-    transform: scale(1.005);
   }
 }
 
