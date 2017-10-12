@@ -56,7 +56,7 @@ body {
 
 .developer-list {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(25em, 1fr));;
+  grid-template-columns: repeat(auto-fit, minmax(32%, 1fr));;
   grid-gap: 25px;
 }
 
@@ -136,5 +136,11 @@ body {
   margin-top: 15px;
   span {
     @include tag(#2196f3);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .developer-list {
+    grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));
   }
 }
