@@ -184,6 +184,14 @@
     "email": "witaya1412@gmail.com"
   },
   {
+    "name": "Metas Kerdwat",
+    "company": "Egg Digital",
+    "skills": ["Android", "Java", "Kotlin"],
+    "city": "Bangkok",
+    "github": "oakkub",
+    "email": "oakkub.1995@gmail.com"
+  },
+  {
     "name": "Akshay Kumar",
     "company": "Student at Panjab University",
     "skills": ["SQL","C++","java","C","XML"],
