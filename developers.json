@@ -222,5 +222,13 @@
     "city": "Bangkok",
     "github": "MobGG",
     "email": "tammanoon24@gmail.com"
-  }
+  },
+  {
+    "name": "David Cardona",
+    "company": "Student at UGR",
+    "skills": ["JavaScript", "C++", "React", "Python", "React-Redux"],
+    "city": "Granada",
+    "github": "davidkrdona",
+    "email": "davidkrdona07@gmail.com"
+  },
 ]
