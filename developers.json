@@ -222,5 +222,13 @@
     "city": "Bangkok",
     "github": "MobGG",
     "email": "tammanoon24@gmail.com"
+  },
+  {
+    "name": "Tommy",
+    "company": "Student at Münster University",
+    "skills": ["Java", "HTML", "CSS"],
+    "city": "Münster",
+    "github": "kickbutts",
+    "email": "kick.butts@gmail.com"
   }
 ]
