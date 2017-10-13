@@ -216,6 +216,14 @@
     "email": "thomashockaday95@gmail.com"
   },
   {
+    "name": "Richard Kapička",
+    "company": "Naucmese.cz",
+    "skills": ["PHP", "SQL", "Docker", "HTML", "Javascript", "CSS", "Ruby", "Rails"],
+    "city": "Prague",
+    "github": "RiKap",
+    "email": "richard@kapicka.cz"
+  },
+  {
     "name": "Mob",
     "company": "Student at Siam University",
     "skills": ["Javascript", "Ionic", "NodeJS"],
