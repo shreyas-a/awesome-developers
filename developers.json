@@ -222,5 +222,13 @@
     "city": "Bangkok",
     "github": "MobGG",
     "email": "tammanoon24@gmail.com"
+  },
+  {
+    "name": "Sunny Singh",
+    "company": "Co-founder of Ninjality and UI developer at Bank of America.",
+    "skills": ["JavaScript", "React", "NodeJS"],
+    "city": "Charlotte, North Carolina",
+    "github": "sunnysingh",
+    "email": "me@sunnysingh.io"
   }
 ]
