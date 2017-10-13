@@ -48,6 +48,14 @@
     "email": "ashwinkshenoy@gmail.com"
   },
   {
+    "name": "Sajeetharan Sinnathurai",
+    "company": "Tech Lead at 99X Technology",
+    "skills": ["Javascript", "NodeJS","Angular","AngularJS","C#","ASP.NET","Data visualization","Python","LINQ","Android","WPF","Java"],
+    "city": "Colombo",
+    "github": "sajeetharan",
+    "email": "sajeetharan@outlook.com"
+  },
+  {
     "name": "Cristiano Santos",
     "company": "DrFarm",
     "skills": ["Ruby", "JavaScript", "NodeJs", "Python", "R", "Machine Learning", "Data Analysis", "Docker"],
