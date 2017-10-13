@@ -222,5 +222,13 @@
     "city": "Bangkok",
     "github": "MobGG",
     "email": "tammanoon24@gmail.com"
+  },
+  {
+    "name": "Rohit Bhalke",
+    "company": "SpringerNature",
+    "skills": ["JavaScript", "angular", "react", "node"],
+    "city": "Pune",
+    "github": "rohitbhalke",
+    "email": "rohitbhalke@gmail.com"
   }
 ]
