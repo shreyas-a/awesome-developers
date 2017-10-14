@@ -264,6 +264,14 @@
     "email": "tammanoon24@gmail.com"
   },
   {
+    "name": "Rob",
+    "company": "Student at internet",
+    "skills": ["Javascript", "NodeJS", "C#"],
+    "city": "Lima",
+    "github": "Marlonc",
+    "email": "marlon_colca@hotmail.com"
+  },
+  {
    "name": "Tomas Falgui",
    "company": "Student",
    "skills": ["HTML","CSS","JavaScript","NodeJS","React"],
