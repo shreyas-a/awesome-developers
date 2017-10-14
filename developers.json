@@ -264,6 +264,14 @@
     "email": "tammanoon24@gmail.com"
   },
   {
+    "name": "Rohit Bhalke",
+    "company": "SpringerNature",
+    "skills": ["JavaScript", "angular", "react", "node"],
+    "city": "Pune",
+    "github": "rohitbhalke",
+    "email": "rohitbhalke@gmail.com"
+  },
+  {
     "name": "Rob",
     "company": "Student at internet",
     "skills": ["Javascript", "NodeJS", "C#"],
