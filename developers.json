@@ -273,6 +273,14 @@
     "email": "tammanoon24@gmail.com"
   },
   {
+    "name": "Tommy",
+    "company": "Student at Münster University",
+    "skills": ["Java", "HTML", "CSS"],
+    "city": "Münster",
+    "github": "kickbutts",
+    "email": "kick.butts@gmail.com"
+  },
+  {
     "name": "Jakub Beneš",
     "company": "I do JavaScript and 🍺 at @Callstackio",
     "skills": ["JavaScript", "React Native", "swag"],
