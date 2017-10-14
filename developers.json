@@ -264,6 +264,14 @@
     "email": "tammanoon24@gmail.com"
   },
   {
+    "name": "Jakub Beneš",
+    "company": "I do JavaScript and 🍺 at @Callstackio",
+    "skills": ["JavaScript", "React Native", "swag"],
+    "city": "Brno  🇨🇿 / Wrocław 🇵🇱",
+    "github": "jukben",
+    "email": "jukben@gmail.com"
+  },
+  {
     "name": "Rohit Bhalke",
     "company": "SpringerNature",
     "skills": ["JavaScript", "angular", "react", "node"],
