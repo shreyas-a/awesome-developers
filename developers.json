@@ -16,6 +16,14 @@
     "email": "slo.runner.samp@gmail.com"
   },
   {
+    "name": "Harishankar Ayandev",
+    "company": "Spritle",
+    "skills": ["JavaScript", "React", "Node"],
+    "city": "Chennai",
+    "github": "harishankards",
+    "email": "harishankards@gmail.com"
+  },
+  {
     "name": "Shravan Kumar",
     "company": "Rentomojo",
     "skills": ["SQL","HTML","JavaScript","Corel Draw"],
