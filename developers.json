@@ -222,5 +222,13 @@
     "city": "Bangkok",
     "github": "MobGG",
     "email": "tammanoon24@gmail.com"
+  },
+  {
+    "name": "Wiruj",
+    "company": "Just a Developer at integrationWorks Asia",
+    "skills": ["Javascript", "Java", "Spring", "Angular"],
+    "city": "Bangkok",
+    "github": "XtheWiz",
+    "email": "xthewiz@gmail.com"
   }
 ]
