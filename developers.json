@@ -1,4 +1,13 @@
 [
+
+ {
+    "name": "Tom Davis",
+    "company": "Freelancer",
+    "skills": ["JavaScript", "Python", "PHP", "SQL","SQR"],
+    "city": "Huntsville",
+    "github": "kat35601",
+    "email": "kat35601@gmail.com"
+  },
   {
     "name": "Shreyas Agarkar",
     "company": "Rentomojo",
