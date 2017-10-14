@@ -1,4 +1,13 @@
 [
+
+ {
+    "name": "Tom Davis",
+    "company": "Freelancer",
+    "skills": ["JavaScript", "Python", "PHP", "SQL","SQR"],
+    "city": "Huntsville",
+    "github": "kat35601",
+    "email": "kat35601@gmail.com"
+  },
   {
     "name": "Shreyas Agarkar",
     "company": "Rentomojo",
@@ -14,6 +23,14 @@
     "city": "Novo Mesto",
     "github": "SloRunner",
     "email": "slo.runner.samp@gmail.com"
+  },
+  {
+    "name": "Harishankar Ayandev",
+    "company": "Spritle",
+    "skills": ["JavaScript", "React", "Node"],
+    "city": "Chennai",
+    "github": "harishankards",
+    "email": "harishankards@gmail.com"
   },
   {
     "name": "Shravan Kumar",
@@ -46,6 +63,14 @@
     "city": "Bangalore",
     "github": "ashwinkshenoy",
     "email": "ashwinkshenoy@gmail.com"
+  },
+  {
+    "name": "Sajeetharan Sinnathurai",
+    "company": "Tech Lead at 99X Technology",
+    "skills": ["Javascript", "NodeJS","Angular","AngularJS","C#","ASP.NET","Data visualization","Python","LINQ","Android","WPF","Java"],
+    "city": "Colombo",
+    "github": "sajeetharan",
+    "email": "sajeetharan@outlook.com"
   },
   {
     "name": "Cristiano Santos",
@@ -184,6 +209,14 @@
     "email": "witaya1412@gmail.com"
   },
   {
+    "name": "Metas Kerdwat",
+    "company": "Egg Digital",
+    "skills": ["Android", "Java", "Kotlin"],
+    "city": "Bangkok",
+    "github": "oakkub",
+    "email": "oakkub.1995@gmail.com"
+  },
+  {
     "name": "Akshay Kumar",
     "company": "Student at Panjab University",
     "skills": ["SQL","C++","java","C","XML"],
@@ -193,9 +226,9 @@
   },
   {
     "name": "Huan-Cheng Chang",
-    "company": "Student at Natinonal Taiwan University",
+    "company": "Student at National Taiwan University",
     "skills": ["Python", "NLP", "JavaScript", "NodeJS", "ReactJS"],
-    "city": "Taipei",
+    "city": "Taipei, Taiwan",
     "github": "changhc",
     "email": "changhc84@gmail.com"
   },
@@ -216,6 +249,22 @@
     "email": "thomashockaday95@gmail.com"
   },
   {
+    "name": "Richard Kapička",
+    "company": "Naucmese.cz",
+    "skills": ["PHP", "SQL", "Docker", "HTML", "Javascript", "CSS", "Ruby", "Rails"],
+    "city": "Prague",
+    "github": "RiKap",
+    "email": "richard@kapicka.cz"
+  },
+  {
+    "name": "Raju Vishwas",
+    "company": "HotelQuickly",
+    "skills": ["PHP", "Java", "HTML", "CSS", "MySQL"],
+    "city": "Bangkok",
+    "github": "rajuvishwas",
+    "email": "rajuvishwas@gmail.com"
+  },
+  {
     "name": "Mob",
     "company": "Student at Siam University",
     "skills": ["Javascript", "Ionic", "NodeJS"],
@@ -231,4 +280,60 @@
     "github": "davidkrdona",
     "email": "davidkrdona07@gmail.com"
   },
+  {
+    "name": "Tommy",
+    "company": "Student at Münster University",
+    "skills": ["Java", "HTML", "CSS"],
+    "city": "Münster",
+    "github": "kickbutts",
+    "email": "kick.butts@gmail.com"
+  },
+  {
+    "name": "Jakub Beneš",
+    "company": "I do JavaScript and 🍺 at @Callstackio",
+    "skills": ["JavaScript", "React Native", "swag"],
+    "city": "Brno  🇨🇿 / Wrocław 🇵🇱",
+    "github": "jukben",
+    "email": "jukben@gmail.com"
+  },
+  {
+    "name": "Rohit Bhalke",
+    "company": "SpringerNature",
+    "skills": ["JavaScript", "angular", "react", "node"],
+    "city": "Pune",
+    "github": "rohitbhalke",
+    "email": "rohitbhalke@gmail.com"
+  },
+  {
+    "name": "Rob",
+    "company": "Student at internet",
+    "skills": ["Javascript", "NodeJS", "C#"],
+    "city": "Lima",
+    "github": "Marlonc",
+    "email": "marlon_colca@hotmail.com"
+  },
+  {
+   "name": "Tomas Falgui",
+   "company": "Student",
+   "skills": ["HTML","CSS","JavaScript","NodeJS","React"],
+   "city": "General Santos City",
+   "github": "tomy8910",
+   "email": "tomyfalguiiii@yahoo.com"
+  },
+  {
+    "name": "Sunny Singh",
+    "company": "Co-founder of Ninjality and UI developer at Bank of America.",
+    "skills": ["JavaScript", "React", "NodeJS"],
+    "city": "Charlotte, North Carolina",
+    "github": "sunnysingh",
+    "email": "me@sunnysingh.io"
+  },
+  {
+    "name": "Jespicas",
+    "company": "QA Engineer at SundioGroup",
+    "skills": ["Javascript", "NodeJS", "c#", "python"],
+    "city": "Girona",
+    "github": "Jespicas",
+    "email": "foros@espipinxo.com"
+  }
 ]
