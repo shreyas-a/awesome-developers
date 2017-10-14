@@ -232,6 +232,14 @@
     "email": "tammanoon24@gmail.com"
   },
   {
+   "name": "Tomas Falgui",
+   "company": "Student",
+   "skills": ["HTML","CSS","JavaScript","NodeJS","React"],
+   "city": "General Santos City",
+   "github": "tomy8910",
+   "email": "tomyfalguiiii@yahoo.com"
+  },
+  {
     "name": "Sunny Singh",
     "company": "Co-founder of Ninjality and UI developer at Bank of America.",
     "skills": ["JavaScript", "React", "NodeJS"],
