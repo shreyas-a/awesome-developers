@@ -176,6 +176,14 @@
     "email": "gdunghi@gmail.com"
   },
   {
+    "name": "Jetsada Machom",
+    "company": "HotelQuickly",
+    "skills": ["Java", "PHP", "NodeJS", "DevOps", "Python", "Android", "Golang"],
+    "city": "Bangkok",
+    "github": "zinuzoid",
+    "email": "zinuzoid@gmail.com"
+  },
+  {
     "name": "Witaya Tospitakkul",
     "company": "Advanced Info Service",
     "skills": ["Java", "Javascript", "Typescript", "Docker", "NodeJS", "Golang", "Angular", "React", "Kotlin"],
