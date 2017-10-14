@@ -216,6 +216,14 @@
     "email": "thomashockaday95@gmail.com"
   },
   {
+    "name": "Raju Vishwas",
+    "company": "HotelQuickly",
+    "skills": ["PHP", "Java", "HTML", "CSS", "MySQL"],
+    "city": "Bangkok",
+    "github": "rajuvishwas",
+    "email": "rajuvishwas@gmail.com"
+  },
+  {
     "name": "Mob",
     "company": "Student at Siam University",
     "skills": ["Javascript", "Ionic", "NodeJS"],
