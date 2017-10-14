@@ -193,9 +193,9 @@
   },
   {
     "name": "Huan-Cheng Chang",
-    "company": "Student at Natinonal Taiwan University",
+    "company": "Student at National Taiwan University",
     "skills": ["Python", "NLP", "JavaScript", "NodeJS", "ReactJS"],
-    "city": "Taipei",
+    "city": "Taipei, Taiwan",
     "github": "changhc",
     "email": "changhc84@gmail.com"
   },
@@ -216,6 +216,14 @@
     "email": "thomashockaday95@gmail.com"
   },
   {
+    "name": "Raju Vishwas",
+    "company": "HotelQuickly",
+    "skills": ["PHP", "Java", "HTML", "CSS", "MySQL"],
+    "city": "Bangkok",
+    "github": "rajuvishwas",
+    "email": "rajuvishwas@gmail.com"
+  },
+  {
     "name": "Mob",
     "company": "Student at Siam University",
     "skills": ["Javascript", "Ionic", "NodeJS"],
@@ -230,5 +238,21 @@
    "city": "General Santos City",
    "github": "tomy8910",
    "email": "tomyfalguiiii@yahoo.com"
+  },
+  {
+    "name": "Sunny Singh",
+    "company": "Co-founder of Ninjality and UI developer at Bank of America.",
+    "skills": ["JavaScript", "React", "NodeJS"],
+    "city": "Charlotte, North Carolina",
+    "github": "sunnysingh",
+    "email": "me@sunnysingh.io"
+  },
+  {
+    "name": "Jespicas",
+    "company": "QA Engineer at SundioGroup",
+    "skills": ["Javascript", "NodeJS", "c#", "python"],
+    "city": "Girona",
+    "github": "Jespicas",
+    "email": "foros@espipinxo.com"
   }
 ]
