@@ -1,5 +1,4 @@
 [
-
  {
     "name": "Tom Davis",
     "company": "Freelancer",
@@ -279,6 +278,14 @@
     "city": "Bangkok",
     "github": "MobGG",
     "email": "tammanoon24@gmail.com"
+  },
+  {
+    "name": "Naman Agarwal",
+    "company": "Student at UIET,Panjab University",
+    "skills": ["C++", "C", "Python", "ML", "SQL"],
+    "city": "Chandigarh, India",
+    "github": "naman9639",
+    "email": "naman9639224290@gmail.com"
   },
   {
     "name": "David Cardona",
