@@ -144,6 +144,14 @@
     "email": "diego@saintesteben.me"
   },
   {
+    "name": "Jean Paul Peria",
+    "company": "CynderTech",
+    "skills": ["JavaScript", "Node.js", "React", "React Native"],
+    "city": "Quezon City",
+    "github": "periabyte",
+    "email": "periabytes@gmail.com"
+  },
+  {
     "name": "Henrik Bergqvist",
     "company": "Alektum Group AB",
     "skills": ["C#", "T-SQL", "MVC", ".Net"],
