@@ -247,6 +247,14 @@
 		"email": "email.akshay98@gmail.com"
 	},
 	{
+		"name": "Antoine Boisadam",
+		"company": "Student at Polytech Grenoble",
+		"skills": ["Java", "Javascript", "Typescript", "Docker", "NodeJS", "Golang", "AngularJS", "React"],
+		"city": "Grenoble",
+		"github": "Antoine38660",
+		"email": "antoine.boisadam@gmail.com"
+	},
+	{
 		"name": "Huan-Cheng Chang",
 		"company": "Student at National Taiwan University",
 		"skills": ["Python", "NLP", "JavaScript", "NodeJS", "ReactJS"],
