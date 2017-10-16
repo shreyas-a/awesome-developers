@@ -373,5 +373,13 @@
 		"city": "Girona",
 		"github": "Jespicas",
 		"email": "foros@espipinxo.com"
+  },
+  {
+		"name": "Sami",
+		"company": "",
+		"skills": ["Javascript", "ReactJS", "AngularJS", "Java", "C", "C++"],
+		"city": "Kathmandu",
+		"github": "imaslarab",
+		"email": "baralsami@gmail.com"
 	}
 ]
