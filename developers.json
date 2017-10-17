@@ -1,4 +1,13 @@
-[{
+[
+	{
+		"name": "Chaitya Shah",
+		"company": "Student at K. J. Somaiya College Of Engineering",
+		"skills": ["JavaScript", "Python", "PHP", "SQL", "JAVA", "CPP", "C", "React", "Angular", "Django", "Redux", "Flux"],
+		"city": "Mumbai, India",
+		"github": "Chaitya62",
+		"email": "chaitya.shah@somaiya.edu"
+	},
+	{
 		"name": "Tom Davis",
 		"company": "Freelancer",
 		"skills": ["JavaScript", "Python", "PHP", "SQL", "SQR"],
