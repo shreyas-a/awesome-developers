@@ -398,5 +398,13 @@
 		"city": "Kathmandu",
 		"github": "imaslarab",
 		"email": "baralsami@gmail.com"
+	},
+  {
+		"name": "Bobby",
+		"company": "SFEIR",
+		"skills": ["Javascript", "ReactJS"],
+		"city": "Paris",
+		"github": "shunxing",
+		"email": ""
 	}
 ]
