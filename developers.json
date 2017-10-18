@@ -414,5 +414,13 @@
 		"city": "Paris",
 		"github": "shunxing",
 		"email": ""
+	},
+	{
+		"name": "msmtotti",
+		"company": "ForEverLopp",
+		"skills": ["Javascript", "ReactJS"],
+		"city": "Mexico",
+		"github": "msmtotti",
+		"email": ""
 	}
 ]
