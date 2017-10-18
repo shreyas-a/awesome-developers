@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Jigar wala",
+		"company": "Student at K. J. Somaiya College Of Engineering",
+		"skills": ["JavaScript", "NodeJS", "PHP", "SQL", "JAVA", "CPP", "C"],
+		"city": "Mumbai, India",
+		"github": "jigarWala",
+		"email": "jigar.wala@somaiya.edu"
+	},
+	{
 		"name": "Chaitya Shah",
 		"company": "Student at K. J. Somaiya College Of Engineering",
 		"skills": ["JavaScript", "Python", "PHP", "SQL", "JAVA", "CPP", "C", "React", "Angular", "Django", "Redux", "Flux"],
