@@ -72,6 +72,14 @@
 		"email": "aimeeshadow@gmail.com"
 	},
 	{
+		"name": "Bhavikk Shah",
+		"company": "Student at K. J. Somaiya College Of Engineering",
+		"skills": ["JavaScript", "NodeJS", "PHP", "SQL", "JAVA", "CPP", "C"],
+		"city": "Mumbai, India",
+		"github": "bhavikk",
+		"email": "bhavikk.shah@somaiya.edu"
+	},
+	{
 		"name": "Shankar Gangadhar",
 		"company": "Rentomojo",
 		"skills": ["Html", "JavaScript", "Angular", "Scss", "webpack", "vue", "grunt"],
