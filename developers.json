@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Jose Almaraz",
+		"company": "Graduated Student From Escuela Superior de Computo",
+		"skills": ["Java", "NodeJS", "AngularJS", "SQL", "JavaScript", "Android", "Swift", "Kotlin", "C"],
+		"city": "Mexico City, Mexico",
+		"github": "LazarusPolar",
+		"email": "jalmarazgon@gmail.com"
+	},
+    {
 		"name": "Jigar wala",
 		"company": "Student at K. J. Somaiya College Of Engineering",
 		"skills": ["JavaScript", "NodeJS", "PHP", "SQL", "JAVA", "CPP", "C"],
