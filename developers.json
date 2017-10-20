@@ -152,6 +152,14 @@
 		"email": "david@psyon.org"
 	},
 	{
+		"name": "Rosita Calderon",
+		"company": "Developer",
+		"skills": ["JavaScript", "PHP", "SQL", "HTML", "CSS"],
+		"city": "Waldorf, MD",
+		"github": "rpcalderon",
+		"email": "rpcalderon86@gmail.com"
+	},
+	{
 		"name": "Sagar Kalra",
 		"company": "Student at UIET,Panjab University",
 		"skills": ["C++", "C", "Python", "PHP", "SQL"],
