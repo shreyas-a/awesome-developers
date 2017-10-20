@@ -1,4 +1,12 @@
 [
+  {
+		"name": "Andrew Battisson",
+		"company": "Whiteroom Design Agency",
+		"skills": ["Javascript", "VUE", "React", "NodeJS", "PHP, "CSS"],
+		"city": "Lichfield, United Kingdom",
+		"github": "abattisson",
+		"email": "abattisson@gmail.com"
+	},
 	{
 		"name": "Jose Almaraz",
 		"company": "Graduated Student From Escuela Superior de Computo",
