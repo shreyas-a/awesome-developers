@@ -454,5 +454,13 @@
 		"city": "Mexico",
 		"github": "msmtotti",
 		"email": ""
+	},
+	{
+		"name": "cek-cek",
+		"company": "",
+		"skills": ["C", "C++", "Python", "Haskell", "PHP", "Javascript", "Powershell"],
+		"city": "Stuttgart",
+		"github": "cek-cek",
+		"email": ""
 	}
 ]
