@@ -449,6 +449,19 @@
     "email": "mail@henrikbergqvist.com"
   },
   {
+    "name": "Sprea",
+    "company": "student at Amrita University",
+    "skills": [
+      "HTML",
+      "C++",
+      "C",
+      "Java"
+    ],
+    "city": "Kollam",
+    "github": "sprea",
+    "email": "spriha27@gmail.com"
+  },
+  {
     "name": "Chainarong Tangsurakit",
     "company": "HotelQuickly",
     "skills": [
