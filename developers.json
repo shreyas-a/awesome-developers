@@ -111,6 +111,20 @@
     "github": "SloRunner",
     "email": "slo.runner.samp@gmail.com"
   },
+    {
+    "name": "Allysa Fletcher",
+    "company": "Paws and Claws",
+    "skills": [
+      "Javascript",
+      "HTML",
+      "C++",
+      "Python",
+      "CSS"
+    ],
+    "city": "Millington, TN",
+    "github": "alldanfin",
+    "email": "allysafletcher@gmail.com"
+  },
   {
     "name": "Harishankar Ayandev",
     "company": "Spritle",
