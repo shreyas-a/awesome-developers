@@ -1,5 +1,4 @@
-[
-  {
+[{
     "name": "Andrew Battisson",
     "company": "Whiteroom Design Agency",
     "skills": [
@@ -111,7 +110,7 @@
     "github": "SloRunner",
     "email": "slo.runner.samp@gmail.com"
   },
-    {
+  {
     "name": "Allysa Fletcher",
     "company": "Paws and Claws",
     "skills": [
@@ -859,5 +858,18 @@
     "city": "Stuttgart",
     "github": "cek-cek",
     "email": ""
+  },
+  {
+    "name": "Trevor Meadows",
+    "company": "",
+    "skills": [
+      "Javascript",
+      "CSS3",
+      "NodeJS",
+      "HTML5"
+    ],
+    "city": "Charlotte",
+    "github": "tlm04070",
+    "email": "tlm04070@gmail.com"
   }
 ]
