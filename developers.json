@@ -871,5 +871,19 @@
     "city": "Charlotte",
     "github": "tlm04070",
     "email": "tlm04070@gmail.com"
+  },
+  {
+    "name": "Khotibul Umam",
+    "company": "Nesbit Studio",
+    "skills": [
+      "Laravel",
+      "VueJS",
+      "NodeJS",
+      "Java",
+      "Android"
+    ],
+    "city": "Mojokerto",
+    "github": "umaams",
+    "email": "khotib.umam7@gmail.com"
   }
 ]
