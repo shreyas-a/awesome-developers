@@ -885,5 +885,20 @@
     "city": "Mojokerto",
     "github": "umaams",
     "email": "khotib.umam7@gmail.com"
+  },
+  {
+    "name": "Yoan Rousseau",
+    "company": "",
+    "skills": [
+      "Java",
+      "Spring",
+      "Ansible",
+      "Docker",
+      "k8s",
+      "NodeJS"
+    ],
+    "city": "Rennes, France",
+    "github": "y0an",
+    "email": ""
   }
 ]
