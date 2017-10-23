@@ -1,5 +1,9 @@
 # Awesome Developers
 
+[![GitHub contributors](https://img.shields.io/github/contributors/shreyas-a/awesome-developers.svg)](https://github.com/shreyas-a/awesome-developers/graphs/contributors)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/nimelepbpejjlbmoobocpfnjhihnpked.svg)](https://github.com/shreyas-a/awesome-developers)
+
+
 _Inspired by Awesome * Lists_
 
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/xFc3nQ2wJ6dn4kKJ5NCouB5B/shreyas-a/awesome-developers'>
