@@ -5,20 +5,20 @@
 
 // Mixins
 @mixin tag($bg-color) {
+  -webkit-transition: color 0.2s;
   background: $bg-color;
+  border-bottom: 0;
   border-radius: 5px 0 0 5px;
   color: #fff;
-  font-size: 11px;
   display: inline-block;
+  font-size: 11px;
   height: 25px;
   line-height: 26px;
+  margin: 5px;
   padding: 1px 12px 0 15px;
   position: relative;
   text-decoration: none;
-  -webkit-transition: color 0.2s;
   text-transform: uppercase;
-  margin: 5px;
-  border-bottom: 0;
   user-select: none;
   &::before {
     background: #fff;
@@ -28,8 +28,8 @@
     height: 6px;
     left: 5px;
     position: absolute;
-    width: 6px;
     top: 10px;
+    width: 6px;
   }
   &::after {
     background: #fff;
@@ -57,45 +57,45 @@ body {
 }
 
 .hd1 {
-  text-align: center;
   font-size: 30px;
   font-weight: 300;
+  text-align: center;
   transition: 0.4s all ease;
 }
 
 .hd-small {
   font-size: 18px;
   font-weight: 100;
-  text-align: center;
   margin: 10px 0;
+  text-align: center;
 }
 
 .search-div {
-  text-align: center;
   margin: 30px auto;
+  text-align: center;
   .search {
-    outline: none;
-    border-radius: 3px;
     border: solid 1px #dcdcdc;
-    padding: 0 10px;
-    height: 35px;
+    border-radius: 3px;
     font-size: 16px;
     font-weight: 300;
+    height: 35px;
+    outline: none;
+    padding: 0 10px;
     width: 400px;
   }
 }
 
 .developer-list {
   display: grid;
-  grid-template-columns: repeat(3, minmax(32%, 1fr));
   grid-gap: 25px;
+  grid-template-columns: repeat(3, minmax(32%, 1fr));
 }
 
 .developer {
-  border-radius: 5px;
   border: solid 1px #dcdcdc;
-  padding: 20px 15px;
+  border-radius: 5px;
   margin: 5px;
+  padding: 20px 15px;
   transition: 0.2s all ease;
   &:hover {
     box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
@@ -103,8 +103,8 @@ body {
 }
 
 .profile-image {
-  width: 50px;
   border-radius: 30px;
+  width: 50px;
 }
 
 
@@ -129,8 +129,8 @@ body {
       @extend %basic-text;
     }
     .dev--company {
-      @extend %basic-text;
       margin-top: 10px;
+      @extend %basic-text;
     }
     .dev--city {
       @extend %basic-text;
@@ -140,9 +140,9 @@ body {
     }
   }
   .dev--social {
+    align-self: start;
     flex: 1;
     text-align: right;
-    align-self: start;
     img {
       margin: 10px 0;
       width: 25px;
@@ -159,10 +159,49 @@ body {
 
 .footer {
   font-family: 'Satisfy', cursive;
-  text-align: center;
   margin: 30px 0;
+  text-align: center;
   .heart {
     color: #f44336;
+  }
+}
+
+.github-corner {
+  svg {
+    border: 0;
+    color:#fff;
+    fill:#151513;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  &:hover .octo-arm {
+    animation: octocat-wave 560ms ease-in-out;
+    transform-origin: 130px 106px;
+  }
+}
+
+@keyframes octocat-wave {
+  0%,
+  100% {
+    transform: rotate(0)
+  }
+  20%,
+  60% {
+    transform: rotate(-25deg)
+  }
+  40%,
+  80% {
+    transform: rotate(10deg)
+  }
+}
+
+@media (max-width:500px) {
+  .github-corner:hover .octo-arm {
+    animation: none
+  }
+  .github-corner .octo-arm {
+    animation: octocat-wave 560ms ease-in-out
   }
 }
 
