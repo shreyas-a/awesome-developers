@@ -593,6 +593,17 @@
     "email": "email.akshay98@gmail.com"
   },
   {
+    "name": "Molotovna",
+    "company": "Freelance",
+    "skills": [
+      "HTML5",
+      "CSS"
+    ],
+    "city": "Moscow",
+    "github": "Molotovna",
+    "email": ""
+  },
+  {
     "name": "Antoine Boisadam",
     "company": "Student at Polytech Grenoble",
     "skills": [
