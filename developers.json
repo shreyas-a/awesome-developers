@@ -110,6 +110,22 @@
     "github": "SloRunner",
     "email": "slo.runner.samp@gmail.com"
   },
+   {
+    "name": "Aman Pratap Singh",
+    "company": "-",
+    "skills": [
+      "C++",
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap"
+    ],
+    "city": "Bhubaneswar",
+    "github": "apsknight",
+    "email": "amanprtpsingh@gmail.com"
+  },
   {
     "name": "Allysa Fletcher",
     "company": "Paws and Claws",
