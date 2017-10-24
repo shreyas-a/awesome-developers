@@ -930,5 +930,17 @@
     "city": "Dhaka",
     "github": "prokawsar",
     "email": "prokawsar@gmail.com"
-  }
+  },
+  {
+     "name": "Lada Mcek",
+     "company": "Student in Brno",
+     "skills": [
+       "JavaScript",
+       "C",
+       "C++"
+     ],
+     "city": "Brno",
+     "github": "ladamcek",
+     "email": ""
+   } 
 ]
