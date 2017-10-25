@@ -1014,5 +1014,25 @@
     "city": "Chicago",
     "github": "Jackhowa",
     "email": "jackhowaa@gmail.com"
+  },
+   {
+    "name": "Abdul Fattah Ikhsan",
+    "company": "Xcidic",
+    "skills": [
+      "JavaScript",
+      "NodeJS",
+      "AngularJS",
+      "Express",
+      "Koa",
+      "React",
+      "React Native",
+      "Meteor",
+      "MongoDB",
+      "Hugo",
+      "GraphQL"
+    ],
+    "city": "Jakarta",
+    "github": "ikhsanalatsary",
+    "email": "ikhsannetwork@gmail.com"
   }
 ]
