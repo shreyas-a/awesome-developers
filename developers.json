@@ -953,5 +953,25 @@
      "city": "Brno",
      "github": "ladamcek",
      "email": ""
-   } 
+   },
+   {
+    "name": "Jack Howard",
+    "company": "Graduated from Dev Bootcamp",
+    "skills": [
+      "Ruby",
+      "NodeJS",
+      "AngularJS",
+      "SQL",
+      "JavaScript",
+      "Rails",
+      "Swift",
+      "Journalism",
+      "UI Design",
+      "PHP",
+      "Symfony"
+    ],
+    "city": "Chicago",
+    "github": "jackhowa",
+    "email": "jackhowaa@gmail.com"
+  }
 ]
