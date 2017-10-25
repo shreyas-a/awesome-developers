@@ -32,6 +32,20 @@
     "email": "jalmarazgon@gmail.com"
   },
   {
+    "name": "Sid",
+    "company": "Student",
+    "skills": [
+      "Java",
+      "SQL",
+      "JavaScript",
+      "Android",
+      "C++"
+    ],
+    "city": "San Francisco, USA",
+    "github": "sidward35",
+    "email": "sid@stscamps.org"
+  },
+  {
     "name": "Jigar wala",
     "company": "Student at K. J. Somaiya College Of Engineering",
     "skills": [
