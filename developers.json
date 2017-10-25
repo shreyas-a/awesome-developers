@@ -32,6 +32,19 @@
     "email": "jalmarazgon@gmail.com"
   },
   {
+    "name": "Scope Carlyle",
+    "company": "HealthPartners",
+    "skills": [
+      "Java",
+      "PHP",
+      "SQL",
+      "C"
+    ],
+    "city": "Las Vegas, Nevada",
+    "github": "scope2018",
+    "email": "scope2018@gmail.com"
+  }, 
+  {
     "name": "Sid",
     "company": "Student",
     "skills": [
