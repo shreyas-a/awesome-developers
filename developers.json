@@ -745,6 +745,19 @@
     "github": "naman9639",
     "email": "naman9639224290@gmail.com"
   },
+    {
+    "name": "Shivank Bali",
+    "company": "Student at UIET,Panjab University",
+    "skills": [
+      "C++",
+      "C",
+      "SQL",
+      "PHP"
+    ],
+    "city": "Chandigarh, India",
+    "github": "sb565",
+    "email": "sb98@protonmail.com"
+  },
   {
     "name": "David Cardona",
     "company": "Student at UGR",
