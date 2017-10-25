@@ -127,6 +127,20 @@
     "email": "amanprtpsingh@gmail.com"
   },
   {
+    "name": "Jax",
+    "company": "-",
+    "skills": [
+      "Javascript",
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "Bootstrap",
+    ],
+    "city": "Seattle, WA",
+    "github": "jjaxxajj",
+    "email": "jaxx.arellano@gmail.com"
+  },
+  {
     "name": "Allysa Fletcher",
     "company": "Paws and Claws",
     "skills": [
