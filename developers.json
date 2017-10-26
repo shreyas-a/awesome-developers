@@ -1047,5 +1047,26 @@
     "city": "Jakarta",
     "github": "ikhsanalatsary",
     "email": "ikhsannetwork@gmail.com"
+  },
+   {
+    "name": "Adnan Fajlur Rohman",
+    "company": "Xcidic",
+    "skills": [
+      "JavaScript",
+      "NodeJS",
+      "AngularJS",
+      "Express",
+      "React",
+      "Meteor",
+      "MongoDB",
+      "Python",
+      "Django",
+      "PHP",
+      "Codeigniter",
+      "Postgresql"
+    ],
+    "city": "Rembang",
+    "github": "adnanfajlur",
+    "email": "adnanfajlur@gmail.com"
   }
 ]
