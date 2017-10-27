@@ -14,6 +14,22 @@
     "email": "abattisson@gmail.com"
   },
   {
+    "name": "Karhtik Jagadeesha",
+    "company": "XCM Solutions",
+    "skills": [
+      "Javascript",
+      "React",
+      "NodeJS",
+      "CSS",
+      "Rust",
+      "SmallTalk",
+      "Scheme"
+    ],
+    "city": "Bangalore, India",
+    "github": "karthikJagadeesh",
+    "email": "kartu8@gmail.com"
+  },
+  {
     "name": "Jose Almaraz",
     "company": "Graduated Student From Escuela Superior de Computo",
     "skills": [
