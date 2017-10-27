@@ -14,6 +14,21 @@
     "email": "abattisson@gmail.com"
   },
   {
+    "name": "Perdana Adhitama",
+    "company": "Source Create",
+    "skills": [
+      "Javascript",
+      "PHP",
+      "CSS",
+      "MySQL",
+      "Ruby"
+      
+    ],
+    "city": "Fukuoka, Japan",
+    "github": "kovloq",
+    "email": "perdana@srce.jp"
+  },
+  {
     "name": "Karthik Jagadeesha",
     "company": "XCM Solutions",
     "skills": [
