@@ -1,15 +1,16 @@
-[{
-  "name": "Michael Koek",
-  "company": "Saxum",
-  "skills": [
-    "JavaScript",
-    "VueJS",
-    "Angular",
-    "SASS/SCSS",
-    "CSS"
-  ],
-  "city": "Amsterdam, Netherlands"
-},
+[
+  {
+    "name": "Michael Koek",
+    "company": "Saxum",
+    "skills": [
+      "JavaScript",
+      "VueJS",
+      "Angular",
+      "SASS/SCSS",
+      "CSS"
+    ],
+    "city": "Amsterdam, Netherlands"
+  },
   {
     "name": "Andrew Battisson",
     "company": "Whiteroom Design Agency",
@@ -34,7 +35,7 @@
       "CSS",
       "MySQL",
       "Ruby"
-      
+
     ],
     "city": "Fukuoka, Japan",
     "github": "kovloq",
@@ -86,7 +87,7 @@
     "city": "Las Vegas, Nevada",
     "github": "scope2018",
     "email": "scope2018@gmail.com"
-  }, 
+  },
   {
     "name": "Sid",
     "company": "Student",
@@ -1125,5 +1126,14 @@
     ],
     "city": "Turin, Italy",
     "github": "marcoaimo"
-  }
+  },
+  {
+   "name": "limqjoo",
+   "company": "of myself",
+   "skills": [
+     "JavaScript"
+   ],
+   "city": "Singapore",
+   "github": "limqjoo"
+ }
 ]
