@@ -1136,4 +1136,19 @@
    "city": "Singapore",
    "github": "limqjoo"
  }
+ {
+   "name": "Annah G",
+   "company": "EDA",
+   "skills":[
+     "JaavaScript",
+     "React/Redux",
+     "node.js",
+     "Express",
+     "Knex",
+     "handleBars",
+     "Embar"
+   ],
+   "city": "Wellington",
+   "github": "AnnahGerletti"
+ }
 ]
