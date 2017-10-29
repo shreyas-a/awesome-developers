@@ -34,7 +34,7 @@
       "CSS",
       "MySQL",
       "Ruby"
-      
+
     ],
     "city": "Fukuoka, Japan",
     "github": "kovloq",
@@ -86,7 +86,7 @@
     "city": "Las Vegas, Nevada",
     "github": "scope2018",
     "email": "scope2018@gmail.com"
-  }, 
+  },
   {
     "name": "Sid",
     "company": "Student",
@@ -1111,5 +1111,14 @@
     "city": "Rembang",
     "github": "adnanfajlur",
     "email": "adnanfajlur@gmail.com"
-  }
+  },
+  {
+   "name": "limqjoo",
+   "company": "of myself",
+   "skills": [
+     "JavaScript"
+   ],
+   "city": "Singapore",
+   "github": "limqjoo"
+ }
 ]
