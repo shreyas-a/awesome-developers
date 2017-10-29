@@ -1,4 +1,16 @@
 [{
+  "name": "Michael Koek",
+  "company": "Saxum",
+  "skills": [
+    "JavaScript",
+    "VueJS",
+    "Angular",
+    "SASS/SCSS",
+    "CSS"
+  ],
+  "city": "Amsterdam, Netherlands"
+},
+  {
     "name": "Andrew Battisson",
     "company": "Whiteroom Design Agency",
     "skills": [
