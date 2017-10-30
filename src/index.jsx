@@ -1,7 +1,7 @@
 import React from 'react';
 import {render} from 'react-dom';
 
-import App from './Components/App.jsx'
+import Routes from './Components/Routes.jsx'
 import './style.scss';
 
-render(<App/>, document.getElementById('root'));
+render(<Routes />, document.getElementById('root'));
