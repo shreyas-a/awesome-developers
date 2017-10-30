@@ -1138,5 +1138,25 @@
      "city": "Singapore",
      "github": "limqjoo",
      "email": ""
+  },
+  {
+     "name": "Enrike Gonzalo",
+     "company": "Irontec",
+     "skills": [
+        "Html",
+        "css",
+        "JavaScript",
+        "AngularJS",
+        "Angular2",
+        "VueJS",
+        "ExpressJS",
+        "NodeJS",
+        "React",
+        "MongoDB",
+        "SQL"
+     ],
+     "city": "Atxondo, Basque Country",
+     "github": "EnrikeGonzaloLEgarra",
+     "email": "enrikeglegarra@gmail.com"
   }
 ]
