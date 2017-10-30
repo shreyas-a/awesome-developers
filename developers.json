@@ -1135,5 +1135,20 @@
    ],
    "city": "Singapore",
    "github": "limqjoo"
+ },
+ {
+  "name": "Terrance Corley",
+  "company": "BioData Laboratories",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "jQuery",
+    "AJAX",
+    "JSON",
+    "Wordpress"
+   ],
+   "city": "El Centro",
+   "github": "terrancecorley"
  }
 ]
