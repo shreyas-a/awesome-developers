@@ -1158,5 +1158,19 @@
      "city": "Atxondo, Basque Country",
      "github": "EnrikeGonzaloLEgarra",
      "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Joy GM",
+    "company": "student",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "jQuery",
+      "React"
+    ],
+    "city": "London",
+    "github": "royranger",
+    "email": ""
   }
 ]
