@@ -1138,5 +1138,22 @@
      "city": "Singapore",
      "github": "limqjoo",
      "email": ""
+  },
+  {
+     "name": "Teno Siswono",
+     "company": "Xcidic",
+     "skills": [
+        "Html",
+        "css",
+        "JavaScript",
+        "React",
+        "NodeJS",
+        "Angular",
+        "Express",
+        "Polymer"
+     ],
+     "city": "Jakarta",
+     "github": "tenosiswono",
+     "email": "tenosiswono@xcidic.com"
   }
 ]
