@@ -1,5 +1,19 @@
 [
   {
+    "name": "Jean Silva",
+    "company": "Code Rocker",
+    "skills": [
+       "JavaScript",
+       "VueJS",
+       "Angular",
+       "React",
+       "CSS"
+    ],
+    "github": "",
+    "city": "Brasília, Brazil",
+    "email": ""
+  },
+  {
      "name": "Michael Koek",
      "company": "Saxum",
      "skills": [
