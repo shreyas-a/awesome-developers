@@ -816,6 +816,21 @@
     "email": ""
   },
   {
+    "name": "Terrance Corley",
+    "company": "BioData Laboratories",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "jQuery",
+      "AJAX",
+      "JSON",
+      "Wordpress"
+    ],
+    "city": "El Centro",
+    "github": "terrancecorley"
+  },
+  {
     "name": "Teno Siswono",
     "company": "Xcidic",
     "skills": [
