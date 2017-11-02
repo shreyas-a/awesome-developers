@@ -1,1159 +1,863 @@
 [
   {
-     "name": "Michael Koek",
-     "company": "Saxum",
-     "skills": [
-        "JavaScript",
-        "VueJS",
-        "Angular",
-        "SASS/SCSS",
-        "CSS"
-     ],
-     "github": "",
-     "city": "Amsterdam, Netherlands",
-     "email": ""
-  },
-  {
-     "name": "Andrew Battisson",
-     "company": "Whiteroom Design Agency",
-     "skills": [
-        "Javascript",
-        "VUE",
-        "React",
-        "NodeJS",
-        "PHP",
-        "CSS"
-     ],
-     "city": "Lichfield, United Kingdom",
-     "github": "abattisson",
-     "email": "abattisson@gmail.com"
-  },
-  {
-     "name": "Perdana Adhitama",
-     "company": "Source Create",
-     "skills": [
-        "Javascript",
-        "PHP",
-        "CSS",
-        "MySQL",
-        "Ruby"
-     ],
-     "city": "Fukuoka, Japan",
-     "github": "kovloq",
-     "email": "perdana@srce.jp"
-  },
-  {
-     "name": "Karthik Jagadeesha",
-     "company": "XCM Solutions",
-     "skills": [
-        "Javascript",
-        "React",
-        "NodeJS",
-        "CSS",
-        "Rust",
-        "SmallTalk",
-        "Scheme"
-     ],
-     "city": "Bangalore, India",
-     "github": "karthikJagadeesh",
-     "email": "kartu8@gmail.com"
-  },
-  {
-     "name": "Jose Almaraz",
-     "company": "Graduated Student From Escuela Superior de Computo",
-     "skills": [
-        "Java",
-        "NodeJS",
-        "AngularJS",
-        "SQL",
-        "JavaScript",
-        "Android",
-        "Swift",
-        "Kotlin",
-        "C"
-     ],
-     "city": "Mexico City, Mexico",
-     "github": "LazarusPolar",
-     "email": "jalmarazgon@gmail.com"
-  },
-  {
-     "name": "Scope Carlyle",
-     "company": "HealthPartners",
-     "skills": [
-        "Java",
-        "PHP",
-        "SQL",
-        "C"
-     ],
-     "city": "Las Vegas, Nevada",
-     "github": "scope2018",
-     "email": "scope2018@gmail.com"
-  },
-  {
-     "name": "Sid",
-     "company": "Student",
-     "skills": [
-        "Java",
-        "SQL",
-        "JavaScript",
-        "Android",
-        "C++"
-     ],
-     "city": "San Francisco, USA",
-     "github": "sidward35",
-     "email": "sid@stscamps.org"
-  },
-  {
-     "name": "Jigar wala",
-     "company": "Student at K. J. Somaiya College Of Engineering",
-     "skills": [
-        "JavaScript",
-        "NodeJS",
-        "PHP",
-        "SQL",
-        "JAVA",
-        "CPP",
-        "C"
-     ],
-     "city": "Mumbai, India",
-     "github": "jigarWala",
-     "email": "jigar.wala@somaiya.edu"
-  },
-  {
-     "name": "Chaitya Shah",
-     "company": "Student at K. J. Somaiya College Of Engineering",
-     "skills": [
-        "JavaScript",
-        "Python",
-        "PHP",
-        "SQL",
-        "JAVA",
-        "CPP",
-        "C",
-        "React",
-        "Angular",
-        "Django",
-        "Redux",
-        "Flux"
-     ],
-     "city": "Mumbai, India",
-     "github": "Chaitya62",
-     "email": "chaitya.shah@somaiya.edu"
-  },
-  {
-     "name": "Tom Davis",
-     "company": "Freelancer",
-     "skills": [
-        "JavaScript",
-        "Python",
-        "PHP",
-        "SQL",
-        "SQR"
-     ],
-     "city": "Huntsville",
-     "github": "kat35601",
-     "email": "kat35601@gmail.com"
-  },
-  {
-     "name": "Shreyas Agarkar",
-     "company": "Rentomojo",
-     "skills": [
-        "JavaScript",
-        "angular",
-        "react",
-        "node",
-        "webpack"
-     ],
-     "city": "Bangalore",
-     "github": "shreyas-a",
-     "email": "shreyas.a24@gmail.com"
-  },
-  {
-     "name": "Aleš Kalan",
-     "company": "-",
-     "skills": [
-        "javascript",
-        "php",
-        "autoit",
-        "node",
-        "automation"
-     ],
-     "city": "Novo Mesto",
-     "github": "SloRunner",
-     "email": "slo.runner.samp@gmail.com"
-  },
-  {
-     "name": "Aman Pratap Singh",
-     "company": "-",
-     "skills": [
-        "C++",
-        "Python",
-        "SQL",
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Bootstrap"
-     ],
-     "city": "Bhubaneswar",
-     "github": "apsknight",
-     "email": "amanprtpsingh@gmail.com"
-  },
-  {
-     "name": "Jax",
-     "company": "-",
-     "skills": [
-        "Javascript",
-        "HTML5",
-        "CSS3",
-        "jQuery",
-        "Bootstrap"
-     ],
-     "city": "Seattle, WA",
-     "github": "jjaxxajj",
-     "email": "jaxx.arellano@gmail.com"
-  },
-  {
-     "name": "Allysa Fletcher",
-     "company": "Paws and Claws",
-     "skills": [
-        "Javascript",
-        "HTML",
-        "C++",
-        "Python",
-        "CSS"
-     ],
-     "city": "Millington, TN",
-     "github": "alldanfin",
-     "email": "allysafletcher@gmail.com"
-  },
-  {
-     "name": "Harishankar Ayandev",
-     "company": "Spritle",
-     "skills": [
-        "JavaScript",
-        "React",
-        "Node"
-     ],
-     "city": "Chennai",
-     "github": "harishankards",
-     "email": "harishankards@gmail.com"
-  },
-  {
-     "name": "Shravan Kumar",
-     "company": "Rentomojo",
-     "skills": [
-        "SQL",
-        "HTML",
-        "JavaScript",
-        "Corel Draw"
-     ],
-     "city": "Bangalore",
-     "github": "shra1cumar",
-     "email": "shravanyellishetty@gmail.com"
-  },
-  {
-     "name": "Aimee Tacchi",
-     "company": "_",
-     "skills": [
-        "CSS",
-        "HTML",
-        "JavaScript",
-        "jQuery",
-        "Scss"
-     ],
-     "city": "Bedfordshire, UK",
-     "github": "darkxangel84",
-     "email": "aimeeshadow@gmail.com"
-  },
-  {
-     "name": "Bhavikk Shah",
-     "company": "Student at K. J. Somaiya College Of Engineering",
-     "skills": [
-        "JavaScript",
-        "NodeJS",
-        "PHP",
-        "SQL",
-        "JAVA",
-        "CPP",
-        "C"
-     ],
-     "city": "Mumbai, India",
-     "github": "bhavikk",
-     "email": "bhavikk.shah@somaiya.edu"
-  },
-  {
-     "name": "Shankar Gangadhar",
-     "company": "Rentomojo",
-     "skills": [
-        "Html",
-        "JavaScript",
-        "Angular",
-        "Scss",
-        "webpack",
-        "vue",
-        "grunt"
-     ],
-     "city": "Bangalore",
-     "github": "sgangadhar02",
-     "email": "sgangadhar02@gmail.com"
-  },
-  {
-     "name": "Jibin Mathews",
-     "company": "Rentomojo",
-     "skills": [
-        "Html",
-        "JavaScript",
-        "NodeJS",
-        "Electron",
-        "Android",
-        "React",
-        "Angular"
-     ],
-     "city": "Bangalore",
-     "github": "jazzyarchitects",
-     "email": "jibinmathews7@gmail.com"
-  },
-  {
-     "name": "Ashwin K Shenoy",
-     "company": "Rentomojo",
-     "skills": [
-        "HTML",
-        "JavaScript",
-        "NodeJS",
-        "CSS",
-        "Angular",
-        "Vue.JS",
-        "PHP",
-        "SQL",
-        "Rails"
-     ],
-     "city": "Bangalore",
-     "github": "ashwinkshenoy",
-     "email": "ashwinkshenoy@gmail.com"
-  },
-  {
-     "name": "Sajeetharan Sinnathurai",
-     "company": "Tech Lead at 99X Technology",
-     "skills": [
-        "Javascript",
-        "NodeJS",
-        "Angular",
-        "AngularJS",
-        "C#",
-        "ASP.NET",
-        "Data visualization",
-        "Python",
-        "LINQ",
-        "Android",
-        "WPF",
-        "Java"
-     ],
-     "city": "Colombo",
-     "github": "sajeetharan",
-     "email": "sajeetharan@outlook.com"
-  },
-  {
-     "name": "Cristiano Santos",
-     "company": "DrFarm",
-     "skills": [
-        "Ruby",
-        "JavaScript",
-        "NodeJs",
-        "Python",
-        "R",
-        "Machine Learning",
-        "Data Analysis",
-        "Docker"
-     ],
-     "city": "Salvador, Bahia, Brazil",
-     "github": "cristianossd",
-     "email": "cristianossd@gmail.com"
-  },
-  {
-     "name": "Dragan Theodora-Augustina",
-     "company": "Student at University Politehnica of Bucharest",
-     "skills": [
-        "Java",
-        "C",
-        "Python",
-        "JavaScript"
-     ],
-     "city": "Bucharest",
-     "github": "theodoradragan",
-     "email": "theoa.dragan@yahoo.com"
-  },
-  {
-     "name": "Mark Allen",
-     "company": "Student at New College Durham,",
-     "skills": [
-        "HTML",
-        "CSS",
-        "SCSS",
-        "PHP",
-        "JavaScript"
-     ],
-     "city": "Durham",
-     "github": "DugTrio91",
-     "email": "allen.mark4@googlemail.com"
-  },
-  {
-     "name": "Saras Arya",
-     "company": "Rentomojo",
-     "skills": [
-        "JavaScript",
-        "angular",
-        "react",
-        "node",
-        "webpack"
-     ],
-     "city": "Bangalore",
-     "github": "SarasArya",
-     "email": "saras.arya@gmail.com"
-  },
-  {
-     "name": "Roberta de Medeiros Fernandes",
-     "company": "SERPRO",
-     "skills": [
-        "Java",
-        "NodeJs",
-        "Html",
-        "JavaScript"
-     ],
-     "city": "Recife",
-     "github": "theodoradragan",
-     "email": "roberta.fernandes@gmail.com"
-  },
-  {
-     "name": "David Becker",
-     "company": "Student at DeltaV Code School in Cedar Rapids Iowa ",
-     "skills": [
-        "JavaScript",
-        "NodeJS",
-        "C#",
-        ".Net",
-        "TDD"
-     ],
-     "city": "Cedar Rapids, Iowa",
-     "github": "Meepedy",
-     "email": "david@psyon.org"
-  },
-  {
-     "name": "Rosita Calderon",
-     "company": "Developer",
-     "skills": [
-        "JavaScript",
-        "PHP",
-        "SQL",
-        "HTML",
-        "CSS"
-     ],
-     "city": "Waldorf, MD",
-     "github": "rpcalderon",
-     "email": "rpcalderon86@gmail.com"
-  },
-  {
-     "name": "Sagar Kalra",
-     "company": "Student at UIET,Panjab University",
-     "skills": [
-        "C++",
-        "C",
-        "Python",
-        "PHP",
-        "SQL"
-     ],
-     "city": "Chandigarh, India",
-     "github": "sagar-kalra",
-     "email": "sagar.kalra98@hotmail.com"
-  },
-  {
-     "name": "Harshil Agrawal",
-     "company": "Student at SVIT, Vasad",
-     "skills": [
-        "PHP",
-        "C",
-        "Ruby",
-        "JavaScript",
-        "HTML",
-        "CSS"
-     ],
-     "city": "Vadodara",
-     "github": "harshil1712",
-     "email": "ghagrawal17@gmail.com"
-  },
-  {
-     "name": "Jamie Burnip",
-     "company": "Web Developer @ Opia Ltd",
-     "skills": [
-        "HTML",
-        "CSS",
-        "SCSS",
-        "PHP",
-        "JavaScript",
-        "Vue.JS"
-     ],
-     "city": "Newcastle upon Tyne, United Kingdom",
-     "github": "jamieburnip",
-     "email": "jamieburnip@gmail.com"
-  },
-  {
-     "name": "Kavan Pancholi",
-     "company": "Brokergenius",
-     "skills": [
-        "PHP",
-        "Laravel",
-        "JavaScript",
-        "NodeJS",
-        "HTML",
-        "CSS"
-     ],
-     "city": "Ahmedabad",
-     "github": "kavanpancholi",
-     "email": "kavanpancholi@gmail.com"
-  },
-  {
-     "name": "Sifat",
-     "company": "Student at Institute Of Science and Technology",
-     "skills": [
-        "PHP",
-        "JavaScript",
-        "CSS3",
-        "HTML5",
-        "Machine Learning"
-     ],
-     "city": "Dhaka",
-     "github": "sifat009",
-     "email": "bhacker150@gmail.com"
-  },
-  {
-     "name": "Diego Saint Esteben",
-     "company": "Student at University of Buenos Aires",
-     "skills": [
-        "Go",
-        "PHP",
-        "Python",
-        "JavaScript"
-     ],
-     "city": "Buenos Aires",
-     "github": "dosten",
-     "email": "diego@saintesteben.me"
-  },
-  {
-     "name": "Jean Paul Peria",
-     "company": "CynderTech",
-     "skills": [
-        "JavaScript",
-        "Node.js",
-        "React",
-        "React Native"
-     ],
-     "city": "Quezon City",
-     "github": "periabyte",
-     "email": "periabytes@gmail.com"
-  },
-  {
-     "name": "Henrik Bergqvist",
-     "company": "Alektum Group AB",
-     "skills": [
-        "C#",
-        "T-SQL",
-        "MVC",
-        ".Net"
-     ],
-     "city": "Gothenburg",
-     "github": "hbbq",
-     "email": "mail@henrikbergqvist.com"
-  },
-  {
-     "name": "Sprea",
-     "company": "student at Amrita University",
-     "skills": [
-        "HTML",
-        "C++",
-        "C",
-        "Java"
-     ],
-     "city": "Kollam",
-     "github": "sprea",
-     "email": "spriha27@gmail.com"
-  },
-  {
-     "name": "Chainarong Tangsurakit",
-     "company": "HotelQuickly",
-     "skills": [
-        "PHP",
-        "Node.JS",
-        "Javascript",
-        "React",
-        "DevOps"
-     ],
-     "city": "Bangkok",
-     "github": "chaintng",
-     "email": "chaintng@gmail.com"
-  },
-  {
-     "name": "Miguel Alfredo Garcia",
-     "company": "Icalialabs",
-     "skills": [
-        "Ruby",
-        "JavaScript",
-        "Ionic",
-        "Docker",
-        "NodeJS"
-     ],
-     "city": "Monterrey",
-     "github": "miguejs",
-     "email": "imiked.mail@gmail.com"
-  },
-  {
-     "name": "Jirayu Photisan",
-     "company": "Tom and friends",
-     "skills": [
-        "Java",
-        "Javascript",
-        "Angular",
-        "Docker",
-        "NodeJS"
-     ],
-     "city": "Bangkok",
-     "github": "gdunghi",
-     "email": "gdunghi@gmail.com"
-  },
-  {
-     "name": "Jetsada Machom",
-     "company": "HotelQuickly",
-     "skills": [
-        "Java",
-        "PHP",
-        "NodeJS",
-        "DevOps",
-        "Python",
-        "Android",
-        "Golang"
-     ],
-     "city": "Bangkok",
-     "github": "zinuzoid",
-     "email": "zinuzoid@gmail.com"
-  },
-  {
-     "name": "Witaya Tospitakkul",
-     "company": "Advanced Info Service",
-     "skills": [
-        "Java",
-        "Javascript",
-        "Typescript",
-        "Docker",
-        "NodeJS",
-        "Golang",
-        "Angular",
-        "React",
-        "Kotlin"
-     ],
-     "city": "Bangkok",
-     "github": "wtospit",
-     "email": "witaya1412@gmail.com"
-  },
-  {
-     "name": "Metas Kerdwat",
-     "company": "Egg Digital",
-     "skills": [
-        "Android",
-        "Java",
-        "Kotlin"
-     ],
-     "city": "Bangkok",
-     "github": "oakkub",
-     "email": "oakkub.1995@gmail.com"
-  },
-  {
-     "name": "Akshay Kumar",
-     "company": "Student at Panjab University",
-     "skills": [
-        "SQL",
-        "C++",
-        "java",
-        "C",
-        "XML"
-     ],
-     "city": "Chandigarh",
-     "github": "AkshayCHD",
-     "email": "email.akshay98@gmail.com"
-  },
-  {
-     "name": "Molotovna",
-     "company": "Freelance",
-     "skills": [
-        "HTML5",
-        "CSS"
-     ],
-     "city": "Moscow",
-     "github": "Molotovna",
-     "email": ""
-  },
-  {
-     "name": "Antoine Boisadam",
-     "company": "Student at Polytech Grenoble",
-     "skills": [
-        "Java",
-        "Javascript",
-        "Typescript",
-        "Docker",
-        "NodeJS",
-        "Golang",
-        "AngularJS",
-        "React"
-     ],
-     "city": "Grenoble",
-     "github": "Antoine38660",
-     "email": "antoine.boisadam@gmail.com"
-  },
-  {
-     "name": "Huan-Cheng Chang",
-     "company": "Student at National Taiwan University",
-     "skills": [
-        "Python",
-        "NLP",
-        "JavaScript",
-        "NodeJS",
-        "ReactJS"
-     ],
-     "city": "Taipei, Taiwan",
-     "github": "changhc",
-     "email": "changhc84@gmail.com"
-  },
-  {
-     "name": "Emmanuel Akinde",
-     "company": "Student",
-     "skills": [
-        "PHP",
-        "React-Native",
-        "NodeJS",
-        "ReactJS",
-        "VueJS"
-     ],
-     "city": "Lagos, Nigeria",
-     "github": "harkindey",
-     "email": "ibukunbamise@yahoo.com"
-  },
-  {
-     "name": "Thomas Hockaday",
-     "company": "Opia",
-     "skills": [
-        "HTML",
-        "Javascript",
-        "CSS",
-        "PHP"
-     ],
-     "city": "Newcastle",
-     "github": "thomashockaday",
-     "email": "thomashockaday95@gmail.com"
-  },
-  {
-     "name": "Richard Kapička",
-     "company": "Naucmese.cz",
-     "skills": [
-        "PHP",
-        "SQL",
-        "Docker",
-        "HTML",
-        "Javascript",
-        "CSS",
-        "Ruby",
-        "Rails"
-     ],
-     "city": "Prague",
-     "github": "RiKap",
-     "email": "richard@kapicka.cz"
-  },
-  {
-     "name": "Raju Vishwas",
-     "company": "HotelQuickly",
-     "skills": [
-        "PHP",
-        "Java",
-        "HTML",
-        "CSS",
-        "MySQL"
-     ],
-     "city": "Bangkok",
-     "github": "rajuvishwas",
-     "email": "rajuvishwas@gmail.com"
-  },
-  {
-     "name": "Mob",
-     "company": "Student at Siam University",
-     "skills": [
-        "Javascript",
-        "Ionic",
-        "NodeJS"
-     ],
-     "city": "Bangkok",
-     "github": "MobGG",
-     "email": "tammanoon24@gmail.com"
-  },
-  {
-     "name": "Wiruj",
-     "company": "Just a Developer at integrationWorks Asia",
-     "skills": [
-        "Javascript",
-        "Java",
-        "Spring",
-        "Angular"
-     ],
-     "city": "Bangkok",
-     "github": "XtheWiz",
-     "email": "xthewiz@gmail.com"
-  },
-  {
-     "name": "Naman Agarwal",
-     "company": "Student at UIET,Panjab University",
-     "skills": [
-        "C++",
-        "C",
-        "Python",
-        "ML",
-        "SQL"
-     ],
-     "city": "Chandigarh, India",
-     "github": "naman9639",
-     "email": "naman9639224290@gmail.com"
-  },
-  {
-     "name": "Shivank Bali",
-     "company": "Student at UIET,Panjab University",
-     "skills": [
-        "C++",
-        "C",
-        "SQL",
-        "PHP"
-     ],
-     "city": "Chandigarh, India",
-     "github": "sb565",
-     "email": "sb98@protonmail.com"
-  },
-  {
-     "name": "David Cardona",
-     "company": "Student at UGR",
-     "skills": [
-        "JavaScript",
-        "C++",
-        "React",
-        "Python",
-        "React-Redux"
-     ],
-     "city": "Granada",
-     "github": "davidkrdona",
-     "email": "davidkrdona07@gmail.com"
-  },
-  {
-     "name": "Tommy",
-     "company": "Student at Münster University",
-     "skills": [
-        "Java",
-        "HTML",
-        "CSS"
-     ],
-     "city": "Münster",
-     "github": "kickbutts",
-     "email": "kick.butts@gmail.com"
-  },
-  {
-     "name": "Jakub Beneš",
-     "company": "I do JavaScript and 🍺 at @Callstackio",
-     "skills": [
-        "JavaScript",
-        "React Native",
-        "swag"
-     ],
-     "city": "Brno 🇨🇿 / Wrocław 🇵🇱",
-     "github": "jukben",
-     "email": "jukben@gmail.com"
-  },
-  {
-     "name": "Rohit Bhalke",
-     "company": "SpringerNature",
-     "skills": [
-        "JavaScript",
-        "angular",
-        "react",
-        "node"
-     ],
-     "city": "Pune",
-     "github": "rohitbhalke",
-     "email": "rohitbhalke@gmail.com"
-  },
-  {
-     "name": "Rob",
-     "company": "Student at internet",
-     "skills": [
-        "Javascript",
-        "NodeJS",
-        "C#"
-     ],
-     "city": "Lima",
-     "github": "Marlonc",
-     "email": "marlon_colca@hotmail.com"
-  },
-  {
-     "name": "Tomas Falgui",
-     "company": "Student",
-     "skills": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "NodeJS",
-        "React"
-     ],
-     "city": "General Santos City",
-     "github": "tomy8910",
-     "email": "tomyfalguiiii@yahoo.com"
-  },
-  {
-     "name": "Sunny Singh",
-     "company": "Co-founder of Ninjality and UI developer at Bank of America.",
-     "skills": [
-        "JavaScript",
-        "React",
-        "NodeJS"
-     ],
-     "city": "Charlotte, North Carolina",
-     "github": "sunnysingh",
-     "email": "me@sunnysingh.io"
-  },
-  {
-     "name": "Jespicas",
-     "company": "QA Engineer at SundioGroup",
-     "skills": [
-        "Javascript",
-        "NodeJS",
-        "c#",
-        "python"
-     ],
-     "city": "Girona",
-     "github": "Jespicas",
-     "email": "foros@espipinxo.com"
-  },
-  {
-     "name": "Sami",
-     "company": "",
-     "skills": [
-        "Javascript",
-        "ReactJS",
-        "AngularJS",
-        "Java",
-        "C",
-        "C++"
-     ],
-     "city": "Kathmandu",
-     "github": "imaslarab",
-     "email": "baralsami@gmail.com"
-  },
-  {
-     "name": "Bobby",
-     "company": "SFEIR",
-     "skills": [
-        "Javascript",
-        "ReactJS"
-     ],
-     "city": "Paris",
-     "github": "shunxing",
-     "email": ""
-  },
-  {
-     "name": "msmtotti",
-     "company": "ForEverLopp",
-     "skills": [
-        "Javascript",
-        "ReactJS"
-     ],
-     "city": "Mexico",
-     "github": "msmtotti",
-     "email": ""
-  },
-  {
-     "name": "cek-cek",
-     "company": "",
-     "skills": [
-        "C",
-        "C++",
-        "Python",
-        "Haskell",
-        "PHP",
-        "Javascript",
-        "Powershell"
-     ],
-     "city": "Stuttgart",
-     "github": "cek-cek",
-     "email": ""
-  },
-  {
-     "name": "Trevor Meadows",
-     "company": "",
-     "skills": [
-        "Javascript",
-        "CSS3",
-        "NodeJS",
-        "HTML5"
-     ],
-     "city": "Charlotte",
-     "github": "tlm04070",
-     "email": "tlm04070@gmail.com"
-  },
-  {
-     "name": "Khotibul Umam",
-     "company": "Nesbit Studio",
-     "skills": [
-        "Laravel",
-        "VueJS",
-        "NodeJS",
-        "Java",
-        "Android"
-     ],
-     "city": "Mojokerto",
-     "github": "umaams",
-     "email": "khotib.umam7@gmail.com"
-  },
-  {
-     "name": "Yoan Rousseau",
-     "company": "",
-     "skills": [
-        "Java",
-        "Spring",
-        "Ansible",
-        "Docker",
-        "k8s",
-        "NodeJS"
-     ],
-     "city": "Rennes, France",
-     "github": "y0an",
-     "email": ""
-  },
-  {
-     "name": "Kawsar Ahmed",
-     "company": "Student at University of Greenwich",
-     "skills": [
-        "JavaScript",
-        "Node.js",
-        "PHP",
-        "SQL",
-        "HTML"
-     ],
-     "city": "Dhaka",
-     "github": "prokawsar",
-     "email": "prokawsar@gmail.com"
-  },
-  {
-     "name": "Lada Mcek",
-     "company": "Student in Brno",
-     "skills": [
-        "JavaScript",
-        "C",
-        "C++"
-     ],
-     "city": "Brno",
-     "github": "ladamcek",
-     "email": ""
-  },
-  {
-     "name": "Jack Howard",
-     "company": "Graduated from Dev Bootcamp",
-     "skills": [
-        "Ruby",
-        "NodeJS",
-        "AngularJS",
-        "SQL",
-        "JavaScript",
-        "Rails",
-        "Swift",
-        "Journalism",
-        "UI Design",
-        "PHP",
-        "Symfony"
-     ],
-     "city": "Chicago",
-     "github": "Jackhowa",
-     "email": "jackhowaa@gmail.com"
-  },
-  {
-     "name": "Abdul Fattah Ikhsan",
-     "company": "Xcidic",
-     "skills": [
-        "JavaScript",
-        "NodeJS",
-        "AngularJS",
-        "Express",
-        "Koa",
-        "React",
-        "React Native",
-        "Meteor",
-        "MongoDB",
-        "Hugo",
-        "GraphQL"
-     ],
-     "city": "Jakarta",
-     "github": "ikhsanalatsary",
-     "email": "ikhsannetwork@gmail.com"
-  },
-  {
-     "name": "Adnan Fajlur Rohman",
-     "company": "Xcidic",
-     "skills": [
-        "JavaScript",
-        "NodeJS",
-        "AngularJS",
-        "Express",
-        "React",
-        "Meteor",
-        "MongoDB",
-        "Python",
-        "Django",
-        "PHP",
-        "Codeigniter",
-        "Postgresql"
-     ],
-     "city": "Rembang",
-     "github": "adnanfajlur",
-     "email": "adnanfajlur@gmail.com"
-  },
-  {
-     "name": "Marco Aimo",
-     "company": "Todo",
-     "skills": [
-        "Html",
-        "css",
-        "JavaScript",
-        "AngularJS",
-        "NodeJS",
-        "Ruby"
-     ],
-     "city": "Turin, Italy",
-     "github": "marcoaimo",
-     "email": ""
-  },
-  {
-     "name": "limqjoo",
-     "company": "of myself",
-     "skills": [
-        "JavaScript"
-     ],
-     "city": "Singapore",
-     "github": "limqjoo",
-     "email": ""
-  },
-  {
-     "name": "Teno Siswono",
-     "company": "Xcidic",
-     "skills": [
-        "Html",
-        "css",
-        "JavaScript",
-        "React",
-        "NodeJS",
-        "Angular",
-        "Express",
-        "Polymer"
-     ],
-     "city": "Jakarta",
-     "github": "tenosiswono",
-     "email": "tenosiswono@xcidic.com"
+    "name": "Michael Koek",
+    "company": "Saxum",
+    "skills": ["JavaScript", "VueJS", "Angular", "SASS/SCSS", "CSS"],
+    "github": "",
+    "city": "Amsterdam, Netherlands",
+    "email": ""
+  },
+  {
+    "name": "Andrew Battisson",
+    "company": "Whiteroom Design Agency",
+    "skills": ["Javascript", "VUE", "React", "NodeJS", "PHP", "CSS"],
+    "city": "Lichfield, United Kingdom",
+    "github": "abattisson",
+    "email": "abattisson@gmail.com"
+  },
+  {
+    "name": "Perdana Adhitama",
+    "company": "Source Create",
+    "skills": ["Javascript", "PHP", "CSS", "MySQL", "Ruby"],
+    "city": "Fukuoka, Japan",
+    "github": "kovloq",
+    "email": "perdana@srce.jp"
+  },
+  {
+    "name": "Karthik Jagadeesha",
+    "company": "XCM Solutions",
+    "skills": [
+      "Javascript",
+      "React",
+      "NodeJS",
+      "CSS",
+      "Rust",
+      "SmallTalk",
+      "Scheme"
+    ],
+    "city": "Bangalore, India",
+    "github": "karthikJagadeesh",
+    "email": "kartu8@gmail.com"
+  },
+  {
+    "name": "Jose Almaraz",
+    "company": "Graduated Student From Escuela Superior de Computo",
+    "skills": [
+      "Java",
+      "NodeJS",
+      "AngularJS",
+      "SQL",
+      "JavaScript",
+      "Android",
+      "Swift",
+      "Kotlin",
+      "C"
+    ],
+    "city": "Mexico City, Mexico",
+    "github": "LazarusPolar",
+    "email": "jalmarazgon@gmail.com"
+  },
+  {
+    "name": "Scope Carlyle",
+    "company": "HealthPartners",
+    "skills": ["Java", "PHP", "SQL", "C"],
+    "city": "Las Vegas, Nevada",
+    "github": "scope2018",
+    "email": "scope2018@gmail.com"
+  },
+  {
+    "name": "Sid",
+    "company": "Student",
+    "skills": ["Java", "SQL", "JavaScript", "Android", "C++"],
+    "city": "San Francisco, USA",
+    "github": "sidward35",
+    "email": "sid@stscamps.org"
+  },
+  {
+    "name": "Jigar wala",
+    "company": "Student at K. J. Somaiya College Of Engineering",
+    "skills": ["JavaScript", "NodeJS", "PHP", "SQL", "JAVA", "CPP", "C"],
+    "city": "Mumbai, India",
+    "github": "jigarWala",
+    "email": "jigar.wala@somaiya.edu"
+  },
+  {
+    "name": "Chaitya Shah",
+    "company": "Student at K. J. Somaiya College Of Engineering",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "PHP",
+      "SQL",
+      "JAVA",
+      "CPP",
+      "C",
+      "React",
+      "Angular",
+      "Django",
+      "Redux",
+      "Flux"
+    ],
+    "city": "Mumbai, India",
+    "github": "Chaitya62",
+    "email": "chaitya.shah@somaiya.edu"
+  },
+  {
+    "name": "Tom Davis",
+    "company": "Freelancer",
+    "skills": ["JavaScript", "Python", "PHP", "SQL", "SQR"],
+    "city": "Huntsville",
+    "github": "kat35601",
+    "email": "kat35601@gmail.com"
+  },
+  {
+    "name": "Shreyas Agarkar",
+    "company": "Rentomojo",
+    "skills": ["JavaScript", "angular", "react", "node", "webpack"],
+    "city": "Bangalore",
+    "github": "shreyas-a",
+    "email": "shreyas.a24@gmail.com"
+  },
+  {
+    "name": "Aleš Kalan",
+    "company": "-",
+    "skills": ["javascript", "php", "autoit", "node", "automation"],
+    "city": "Novo Mesto",
+    "github": "SloRunner",
+    "email": "slo.runner.samp@gmail.com"
+  },
+  {
+    "name": "Aman Pratap Singh",
+    "company": "-",
+    "skills": [
+      "C++",
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap"
+    ],
+    "city": "Bhubaneswar",
+    "github": "apsknight",
+    "email": "amanprtpsingh@gmail.com"
+  },
+  {
+    "name": "Jax",
+    "company": "-",
+    "skills": ["Javascript", "HTML5", "CSS3", "jQuery", "Bootstrap"],
+    "city": "Seattle, WA",
+    "github": "jjaxxajj",
+    "email": "jaxx.arellano@gmail.com"
+  },
+  {
+    "name": "Allysa Fletcher",
+    "company": "Paws and Claws",
+    "skills": ["Javascript", "HTML", "C++", "Python", "CSS"],
+    "city": "Millington, TN",
+    "github": "alldanfin",
+    "email": "allysafletcher@gmail.com"
+  },
+  {
+    "name": "Harishankar Ayandev",
+    "company": "Spritle",
+    "skills": ["JavaScript", "React", "Node"],
+    "city": "Chennai",
+    "github": "harishankards",
+    "email": "harishankards@gmail.com"
+  },
+  {
+    "name": "Shravan Kumar",
+    "company": "Rentomojo",
+    "skills": ["SQL", "HTML", "JavaScript", "Corel Draw"],
+    "city": "Bangalore",
+    "github": "shra1cumar",
+    "email": "shravanyellishetty@gmail.com"
+  },
+  {
+    "name": "Aimee Tacchi",
+    "company": "_",
+    "skills": ["CSS", "HTML", "JavaScript", "jQuery", "Scss"],
+    "city": "Bedfordshire, UK",
+    "github": "darkxangel84",
+    "email": "aimeeshadow@gmail.com"
+  },
+  {
+    "name": "Bhavikk Shah",
+    "company": "Student at K. J. Somaiya College Of Engineering",
+    "skills": ["JavaScript", "NodeJS", "PHP", "SQL", "JAVA", "CPP", "C"],
+    "city": "Mumbai, India",
+    "github": "bhavikk",
+    "email": "bhavikk.shah@somaiya.edu"
+  },
+  {
+    "name": "Shankar Gangadhar",
+    "company": "Rentomojo",
+    "skills": [
+      "Html",
+      "JavaScript",
+      "Angular",
+      "Scss",
+      "webpack",
+      "vue",
+      "grunt"
+    ],
+    "city": "Bangalore",
+    "github": "sgangadhar02",
+    "email": "sgangadhar02@gmail.com"
+  },
+  {
+    "name": "Jibin Mathews",
+    "company": "Rentomojo",
+    "skills": [
+      "Html",
+      "JavaScript",
+      "NodeJS",
+      "Electron",
+      "Android",
+      "React",
+      "Angular"
+    ],
+    "city": "Bangalore",
+    "github": "jazzyarchitects",
+    "email": "jibinmathews7@gmail.com"
+  },
+  {
+    "name": "Ashwin K Shenoy",
+    "company": "Rentomojo",
+    "skills": [
+      "HTML",
+      "JavaScript",
+      "NodeJS",
+      "CSS",
+      "Angular",
+      "Vue.JS",
+      "PHP",
+      "SQL",
+      "Rails"
+    ],
+    "city": "Bangalore",
+    "github": "ashwinkshenoy",
+    "email": "ashwinkshenoy@gmail.com"
+  },
+  {
+    "name": "Sajeetharan Sinnathurai",
+    "company": "Tech Lead at 99X Technology",
+    "skills": [
+      "Javascript",
+      "NodeJS",
+      "Angular",
+      "AngularJS",
+      "C#",
+      "ASP.NET",
+      "Data visualization",
+      "Python",
+      "LINQ",
+      "Android",
+      "WPF",
+      "Java"
+    ],
+    "city": "Colombo",
+    "github": "sajeetharan",
+    "email": "sajeetharan@outlook.com"
+  },
+  {
+    "name": "Cristiano Santos",
+    "company": "DrFarm",
+    "skills": [
+      "Ruby",
+      "JavaScript",
+      "NodeJs",
+      "Python",
+      "R",
+      "Machine Learning",
+      "Data Analysis",
+      "Docker"
+    ],
+    "city": "Salvador, Bahia, Brazil",
+    "github": "cristianossd",
+    "email": "cristianossd@gmail.com"
+  },
+  {
+    "name": "Dragan Theodora-Augustina",
+    "company": "Student at University Politehnica of Bucharest",
+    "skills": ["Java", "C", "Python", "JavaScript"],
+    "city": "Bucharest",
+    "github": "theodoradragan",
+    "email": "theoa.dragan@yahoo.com"
+  },
+  {
+    "name": "Mark Allen",
+    "company": "Student at New College Durham,",
+    "skills": ["HTML", "CSS", "SCSS", "PHP", "JavaScript"],
+    "city": "Durham",
+    "github": "DugTrio91",
+    "email": "allen.mark4@googlemail.com"
+  },
+  {
+    "name": "Saras Arya",
+    "company": "Rentomojo",
+    "skills": ["JavaScript", "angular", "react", "node", "webpack"],
+    "city": "Bangalore",
+    "github": "SarasArya",
+    "email": "saras.arya@gmail.com"
+  },
+  {
+    "name": "Roberta de Medeiros Fernandes",
+    "company": "SERPRO",
+    "skills": ["Java", "NodeJs", "Html", "JavaScript"],
+    "city": "Recife",
+    "github": "theodoradragan",
+    "email": "roberta.fernandes@gmail.com"
+  },
+  {
+    "name": "David Becker",
+    "company": "Student at DeltaV Code School in Cedar Rapids Iowa ",
+    "skills": ["JavaScript", "NodeJS", "C#", ".Net", "TDD"],
+    "city": "Cedar Rapids, Iowa",
+    "github": "Meepedy",
+    "email": "david@psyon.org"
+  },
+  {
+    "name": "Rosita Calderon",
+    "company": "Developer",
+    "skills": ["JavaScript", "PHP", "SQL", "HTML", "CSS"],
+    "city": "Waldorf, MD",
+    "github": "rpcalderon",
+    "email": "rpcalderon86@gmail.com"
+  },
+  {
+    "name": "Sagar Kalra",
+    "company": "Student at UIET,Panjab University",
+    "skills": ["C++", "C", "Python", "PHP", "SQL"],
+    "city": "Chandigarh, India",
+    "github": "sagar-kalra",
+    "email": "sagar.kalra98@hotmail.com"
+  },
+  {
+    "name": "Harshil Agrawal",
+    "company": "Student at SVIT, Vasad",
+    "skills": ["PHP", "C", "Ruby", "JavaScript", "HTML", "CSS"],
+    "city": "Vadodara",
+    "github": "harshil1712",
+    "email": "ghagrawal17@gmail.com"
+  },
+  {
+    "name": "Jamie Burnip",
+    "company": "Web Developer @ Opia Ltd",
+    "skills": ["HTML", "CSS", "SCSS", "PHP", "JavaScript", "Vue.JS"],
+    "city": "Newcastle upon Tyne, United Kingdom",
+    "github": "jamieburnip",
+    "email": "jamieburnip@gmail.com"
+  },
+  {
+    "name": "Kavan Pancholi",
+    "company": "Brokergenius",
+    "skills": ["PHP", "Laravel", "JavaScript", "NodeJS", "HTML", "CSS"],
+    "city": "Ahmedabad",
+    "github": "kavanpancholi",
+    "email": "kavanpancholi@gmail.com"
+  },
+  {
+    "name": "Sifat",
+    "company": "Student at Institute Of Science and Technology",
+    "skills": ["PHP", "JavaScript", "CSS3", "HTML5", "Machine Learning"],
+    "city": "Dhaka",
+    "github": "sifat009",
+    "email": "bhacker150@gmail.com"
+  },
+  {
+    "name": "Diego Saint Esteben",
+    "company": "Student at University of Buenos Aires",
+    "skills": ["Go", "PHP", "Python", "JavaScript"],
+    "city": "Buenos Aires",
+    "github": "dosten",
+    "email": "diego@saintesteben.me"
+  },
+  {
+    "name": "Jean Paul Peria",
+    "company": "CynderTech",
+    "skills": ["JavaScript", "Node.js", "React", "React Native"],
+    "city": "Quezon City",
+    "github": "periabyte",
+    "email": "periabytes@gmail.com"
+  },
+  {
+    "name": "Henrik Bergqvist",
+    "company": "Alektum Group AB",
+    "skills": ["C#", "T-SQL", "MVC", ".Net"],
+    "city": "Gothenburg",
+    "github": "hbbq",
+    "email": "mail@henrikbergqvist.com"
+  },
+  {
+    "name": "Sprea",
+    "company": "student at Amrita University",
+    "skills": ["HTML", "C++", "C", "Java"],
+    "city": "Kollam",
+    "github": "sprea",
+    "email": "spriha27@gmail.com"
+  },
+  {
+    "name": "Chainarong Tangsurakit",
+    "company": "HotelQuickly",
+    "skills": ["PHP", "Node.JS", "Javascript", "React", "DevOps"],
+    "city": "Bangkok",
+    "github": "chaintng",
+    "email": "chaintng@gmail.com"
+  },
+  {
+    "name": "Miguel Alfredo Garcia",
+    "company": "Icalialabs",
+    "skills": ["Ruby", "JavaScript", "Ionic", "Docker", "NodeJS"],
+    "city": "Monterrey",
+    "github": "miguejs",
+    "email": "imiked.mail@gmail.com"
+  },
+  {
+    "name": "Jirayu Photisan",
+    "company": "Tom and friends",
+    "skills": ["Java", "Javascript", "Angular", "Docker", "NodeJS"],
+    "city": "Bangkok",
+    "github": "gdunghi",
+    "email": "gdunghi@gmail.com"
+  },
+  {
+    "name": "Jetsada Machom",
+    "company": "HotelQuickly",
+    "skills": [
+      "Java",
+      "PHP",
+      "NodeJS",
+      "DevOps",
+      "Python",
+      "Android",
+      "Golang"
+    ],
+    "city": "Bangkok",
+    "github": "zinuzoid",
+    "email": "zinuzoid@gmail.com"
+  },
+  {
+    "name": "Witaya Tospitakkul",
+    "company": "Advanced Info Service",
+    "skills": [
+      "Java",
+      "Javascript",
+      "Typescript",
+      "Docker",
+      "NodeJS",
+      "Golang",
+      "Angular",
+      "React",
+      "Kotlin"
+    ],
+    "city": "Bangkok",
+    "github": "wtospit",
+    "email": "witaya1412@gmail.com"
+  },
+  {
+    "name": "Metas Kerdwat",
+    "company": "Egg Digital",
+    "skills": ["Android", "Java", "Kotlin"],
+    "city": "Bangkok",
+    "github": "oakkub",
+    "email": "oakkub.1995@gmail.com"
+  },
+  {
+    "name": "Akshay Kumar",
+    "company": "Student at Panjab University",
+    "skills": ["SQL", "C++", "java", "C", "XML"],
+    "city": "Chandigarh",
+    "github": "AkshayCHD",
+    "email": "email.akshay98@gmail.com"
+  },
+  {
+    "name": "Molotovna",
+    "company": "Freelance",
+    "skills": ["HTML5", "CSS"],
+    "city": "Moscow",
+    "github": "Molotovna",
+    "email": ""
+  },
+  {
+    "name": "Antoine Boisadam",
+    "company": "Student at Polytech Grenoble",
+    "skills": [
+      "Java",
+      "Javascript",
+      "Typescript",
+      "Docker",
+      "NodeJS",
+      "Golang",
+      "AngularJS",
+      "React"
+    ],
+    "city": "Grenoble",
+    "github": "Antoine38660",
+    "email": "antoine.boisadam@gmail.com"
+  },
+  {
+    "name": "Huan-Cheng Chang",
+    "company": "Student at National Taiwan University",
+    "skills": ["Python", "NLP", "JavaScript", "NodeJS", "ReactJS"],
+    "city": "Taipei, Taiwan",
+    "github": "changhc",
+    "email": "changhc84@gmail.com"
+  },
+  {
+    "name": "Emmanuel Akinde",
+    "company": "Student",
+    "skills": ["PHP", "React-Native", "NodeJS", "ReactJS", "VueJS"],
+    "city": "Lagos, Nigeria",
+    "github": "harkindey",
+    "email": "ibukunbamise@yahoo.com"
+  },
+  {
+    "name": "Thomas Hockaday",
+    "company": "Opia",
+    "skills": ["HTML", "Javascript", "CSS", "PHP"],
+    "city": "Newcastle",
+    "github": "thomashockaday",
+    "email": "thomashockaday95@gmail.com"
+  },
+  {
+    "name": "Richard Kapička",
+    "company": "Naucmese.cz",
+    "skills": [
+      "PHP",
+      "SQL",
+      "Docker",
+      "HTML",
+      "Javascript",
+      "CSS",
+      "Ruby",
+      "Rails"
+    ],
+    "city": "Prague",
+    "github": "RiKap",
+    "email": "richard@kapicka.cz"
+  },
+  {
+    "name": "Raju Vishwas",
+    "company": "HotelQuickly",
+    "skills": ["PHP", "Java", "HTML", "CSS", "MySQL"],
+    "city": "Bangkok",
+    "github": "rajuvishwas",
+    "email": "rajuvishwas@gmail.com"
+  },
+  {
+    "name": "Mob",
+    "company": "Student at Siam University",
+    "skills": ["Javascript", "Ionic", "NodeJS"],
+    "city": "Bangkok",
+    "github": "MobGG",
+    "email": "tammanoon24@gmail.com"
+  },
+  {
+    "name": "Wiruj",
+    "company": "Just a Developer at integrationWorks Asia",
+    "skills": ["Javascript", "Java", "Spring", "Angular"],
+    "city": "Bangkok",
+    "github": "XtheWiz",
+    "email": "xthewiz@gmail.com"
+  },
+  {
+    "name": "Naman Agarwal",
+    "company": "Student at UIET,Panjab University",
+    "skills": ["C++", "C", "Python", "ML", "SQL"],
+    "city": "Chandigarh, India",
+    "github": "naman9639",
+    "email": "naman9639224290@gmail.com"
+  },
+  {
+    "name": "Shivank Bali",
+    "company": "Student at UIET,Panjab University",
+    "skills": ["C++", "C", "SQL", "PHP"],
+    "city": "Chandigarh, India",
+    "github": "sb565",
+    "email": "sb98@protonmail.com"
+  },
+  {
+    "name": "David Cardona",
+    "company": "Student at UGR",
+    "skills": ["JavaScript", "C++", "React", "Python", "React-Redux"],
+    "city": "Granada",
+    "github": "davidkrdona",
+    "email": "davidkrdona07@gmail.com"
+  },
+  {
+    "name": "Tommy",
+    "company": "Student at Münster University",
+    "skills": ["Java", "HTML", "CSS"],
+    "city": "Münster",
+    "github": "kickbutts",
+    "email": "kick.butts@gmail.com"
+  },
+  {
+    "name": "Jakub Beneš",
+    "company": "I do JavaScript and 🍺 at @Callstackio",
+    "skills": ["JavaScript", "React Native", "swag"],
+    "city": "Brno 🇨🇿 / Wrocław 🇵🇱",
+    "github": "jukben",
+    "email": "jukben@gmail.com"
+  },
+  {
+    "name": "Rohit Bhalke",
+    "company": "SpringerNature",
+    "skills": ["JavaScript", "angular", "react", "node"],
+    "city": "Pune",
+    "github": "rohitbhalke",
+    "email": "rohitbhalke@gmail.com"
+  },
+  {
+    "name": "Rob",
+    "company": "Student at internet",
+    "skills": ["Javascript", "NodeJS", "C#"],
+    "city": "Lima",
+    "github": "Marlonc",
+    "email": "marlon_colca@hotmail.com"
+  },
+  {
+    "name": "Tomas Falgui",
+    "company": "Student",
+    "skills": ["HTML", "CSS", "JavaScript", "NodeJS", "React"],
+    "city": "General Santos City",
+    "github": "tomy8910",
+    "email": "tomyfalguiiii@yahoo.com"
+  },
+  {
+    "name": "Sunny Singh",
+    "company": "Co-founder of Ninjality and UI developer at Bank of America.",
+    "skills": ["JavaScript", "React", "NodeJS"],
+    "city": "Charlotte, North Carolina",
+    "github": "sunnysingh",
+    "email": "me@sunnysingh.io"
+  },
+  {
+    "name": "Jespicas",
+    "company": "QA Engineer at SundioGroup",
+    "skills": ["Javascript", "NodeJS", "c#", "python"],
+    "city": "Girona",
+    "github": "Jespicas",
+    "email": "foros@espipinxo.com"
+  },
+  {
+    "name": "Sami",
+    "company": "",
+    "skills": ["Javascript", "ReactJS", "AngularJS", "Java", "C", "C++"],
+    "city": "Kathmandu",
+    "github": "imaslarab",
+    "email": "baralsami@gmail.com"
+  },
+  {
+    "name": "Bobby",
+    "company": "SFEIR",
+    "skills": ["Javascript", "ReactJS"],
+    "city": "Paris",
+    "github": "shunxing",
+    "email": ""
+  },
+  {
+    "name": "msmtotti",
+    "company": "ForEverLopp",
+    "skills": ["Javascript", "ReactJS"],
+    "city": "Mexico",
+    "github": "msmtotti",
+    "email": ""
+  },
+  {
+    "name": "cek-cek",
+    "company": "",
+    "skills": [
+      "C",
+      "C++",
+      "Python",
+      "Haskell",
+      "PHP",
+      "Javascript",
+      "Powershell"
+    ],
+    "city": "Stuttgart",
+    "github": "cek-cek",
+    "email": ""
+  },
+  {
+    "name": "Trevor Meadows",
+    "company": "",
+    "skills": ["Javascript", "CSS3", "NodeJS", "HTML5"],
+    "city": "Charlotte",
+    "github": "tlm04070",
+    "email": "tlm04070@gmail.com"
+  },
+  {
+    "name": "Khotibul Umam",
+    "company": "Nesbit Studio",
+    "skills": ["Laravel", "VueJS", "NodeJS", "Java", "Android"],
+    "city": "Mojokerto",
+    "github": "umaams",
+    "email": "khotib.umam7@gmail.com"
+  },
+  {
+    "name": "Yoan Rousseau",
+    "company": "",
+    "skills": ["Java", "Spring", "Ansible", "Docker", "k8s", "NodeJS"],
+    "city": "Rennes, France",
+    "github": "y0an",
+    "email": ""
+  },
+  {
+    "name": "Kawsar Ahmed",
+    "company": "Student at University of Greenwich",
+    "skills": ["JavaScript", "Node.js", "PHP", "SQL", "HTML"],
+    "city": "Dhaka",
+    "github": "prokawsar",
+    "email": "prokawsar@gmail.com"
+  },
+  {
+    "name": "Lada Mcek",
+    "company": "Student in Brno",
+    "skills": ["JavaScript", "C", "C++"],
+    "city": "Brno",
+    "github": "ladamcek",
+    "email": ""
+  },
+  {
+    "name": "Jack Howard",
+    "company": "Graduated from Dev Bootcamp",
+    "skills": [
+      "Ruby",
+      "NodeJS",
+      "AngularJS",
+      "SQL",
+      "JavaScript",
+      "Rails",
+      "Swift",
+      "Journalism",
+      "UI Design",
+      "PHP",
+      "Symfony"
+    ],
+    "city": "Chicago",
+    "github": "Jackhowa",
+    "email": "jackhowaa@gmail.com"
+  },
+  {
+    "name": "Abdul Fattah Ikhsan",
+    "company": "Xcidic",
+    "skills": [
+      "JavaScript",
+      "NodeJS",
+      "AngularJS",
+      "Express",
+      "Koa",
+      "React",
+      "React Native",
+      "Meteor",
+      "MongoDB",
+      "Hugo",
+      "GraphQL"
+    ],
+    "city": "Jakarta",
+    "github": "ikhsanalatsary",
+    "email": "ikhsannetwork@gmail.com"
+  },
+  {
+    "name": "Adnan Fajlur Rohman",
+    "company": "Xcidic",
+    "skills": [
+      "JavaScript",
+      "NodeJS",
+      "AngularJS",
+      "Express",
+      "React",
+      "Meteor",
+      "MongoDB",
+      "Python",
+      "Django",
+      "PHP",
+      "Codeigniter",
+      "Postgresql"
+    ],
+    "city": "Rembang",
+    "github": "adnanfajlur",
+    "email": "adnanfajlur@gmail.com"
+  },
+  {
+    "name": "Marco Aimo",
+    "company": "Todo",
+    "skills": ["Html", "css", "JavaScript", "AngularJS", "NodeJS", "Ruby"],
+    "city": "Turin, Italy",
+    "github": "marcoaimo",
+    "email": ""
+  },
+  {
+    "name": "limqjoo",
+    "company": "of myself",
+    "skills": ["JavaScript"],
+    "city": "Singapore",
+    "github": "limqjoo",
+    "email": ""
+  },
+  {
+    "name": "Annah G",
+    "company": "EDA",
+    "skills": [
+      "JaavaScript",
+      "React/Redux",
+      "node.js",
+      "Express",
+      "Knex",
+      "handleBars",
+      "Embar"
+    ],
+    "city": "Wellington",
+    "github": "AnnahGerletti",
+    "email": ""
+  },
+  {
+    "name": "Teno Siswono",
+    "company": "Xcidic",
+    "skills": [
+      "Html",
+      "css",
+      "JavaScript",
+      "React",
+      "NodeJS",
+      "Angular",
+      "Express",
+      "Polymer"
+    ],
+    "city": "Jakarta",
+    "github": "tenosiswono",
+    "email": "tenosiswono@xcidic.com"
+  },
+  {
+    "name": "Jean Silva",
+    "company": "Code Rocker",
+    "skills": ["JavaScript", "VueJS", "Angular", "React", "CSS"],
+    "github": "",
+    "city": "Brasília, Brazil",
+    "email": ""
+  },
+  {
+    "name": "Enrike Gonzalo",
+    "company": "Irontec",
+    "skills": [
+      "Html",
+      "css",
+      "JavaScript",
+      "AngularJS",
+      "Angular2",
+      "VueJS",
+      "ExpressJS",
+      "NodeJS",
+      "React",
+      "MongoDB",
+      "SQL"
+    ],
+    "city": "Atxondo, Basque Country",
+    "github": "EnrikeGonzaloLEgarra",
+    "email": "enrikeglegarra@gmail.com"
   }
 ]
