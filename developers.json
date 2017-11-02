@@ -816,15 +816,26 @@
     "email": ""
   },
   {
+    "name": "Teno Siswono",
+    "company": "Xcidic",
+    "skills": [
+      "Html",
+      "css",
+      "JavaScript",
+      "React",
+      "NodeJS",
+      "Angular",
+      "Express",
+      "Polymer"
+    ],
+    "city": "Jakarta",
+    "github": "tenosiswono",
+    "email": "tenosiswono@xcidic.com"
+  },
+  {
     "name": "Jean Silva",
     "company": "Code Rocker",
-    "skills": [
-       "JavaScript",
-       "VueJS",
-       "Angular",
-       "React",
-       "CSS"
-    ],
+    "skills": ["JavaScript", "VueJS", "Angular", "React", "CSS"],
     "github": "",
     "city": "Brasília, Brazil",
     "email": ""
