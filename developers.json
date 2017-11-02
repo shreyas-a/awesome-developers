@@ -73,23 +73,6 @@
     "github": "sidward35",
     "email": "sid@stscamps.org"
   },
-    {
-    "name": "Jamie Rees",
-    "company": "Moneybarn",
-    "skills": [
-      "JavaScript",
-      "C#",
-      ".Net",
-      ".Net Core",
-      "Angular",
-      "AngularJs",
-      "WebApi",
-      "TSQL"
-    ],
-    "city": "Guildford, UK",
-    "github": "tidusjar",
-    "email": "tidusjar@gmail.com"
-  },
   {
     "name": "Jigar wala",
     "company": "Student at K. J. Somaiya College Of Engineering",
@@ -830,6 +813,20 @@
     ],
     "city": "Wellington",
     "github": "AnnahGerletti",
+    "email": ""
+  },
+  {
+    "name": "Jean Silva",
+    "company": "Code Rocker",
+    "skills": [
+       "JavaScript",
+       "VueJS",
+       "Angular",
+       "React",
+       "CSS"
+    ],
+    "github": "",
+    "city": "Brasília, Brazil",
     "email": ""
   },
   {
