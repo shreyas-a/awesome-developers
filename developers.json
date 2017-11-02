@@ -816,6 +816,14 @@
     "email": ""
   },
   {
+    "name": "Joy GM",
+    "company": "student",
+    "skills": ["HTML", "CSS", "JavaScript", "jQuery", "React"],
+    "city": "London",
+    "github": "royranger",
+    "email": ""
+  },
+  {
     "name": "Terrance Corley",
     "company": "BioData Laboratories",
     "skills": [
