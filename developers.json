@@ -864,6 +864,14 @@
     "email": ""
   },
   {
+    "name": "Kenty Weymeesch",
+    "company": "Alcatel-Submarine-Networks",
+    "skills": ["C#", "Powershell", "JavaScript"],
+    "github": "Kentywey",
+    "city": "Calais, France",
+    "email": "kweymeesch@gmail.com"
+  },
+  {
     "name": "Enrike Gonzalo",
     "company": "Irontec",
     "skills": [
