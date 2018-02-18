@@ -1,5 +1,18 @@
 [
   {
+    "name": "Yogesh Prasanna",
+    "company": "XCM",
+    "skills": [
+      "JavaScript",
+      "React",
+      "SASS/SCSS",
+      "CSS"
+    ],
+    "github": "YogeshPrasanna",
+    "city": "Bangalore, India",
+    "email": "yogi15blr@gmail.com"
+  },
+  {
     "name": "Michael Koek",
     "company": "Saxum",
     "skills": ["JavaScript", "VueJS", "Angular", "SASS/SCSS", "CSS"],
