@@ -903,5 +903,13 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Dipti Solanki",
+    "company": "Student",
+    "skills": ["C", "NodeJS", "JavaScript", "HTML5", "Java", "Python", "React-Native", "Bootstrap", "CSS3"],
+    "github": "purpledip",
+    "city": "Gujarat, India",
+    "email": "dptksh@gmail.com"
   }
 ]
