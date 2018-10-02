@@ -1,5 +1,19 @@
 [
   {
+    "name": "Pawan Bansal",
+    "company": "Student",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "Node.JS",
+      "Django",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "github": "hackbansu",
+    "city": "New Delhi, India",
+    "email": "bansal.pawan96@gmail.com"
+  },{
     "name": "Yogesh Prasanna",
     "company": "XCM",
     "skills": [
