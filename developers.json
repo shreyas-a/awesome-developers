@@ -903,5 +903,21 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Ogundiji Bolade Adio",
+    "company": "NCKTechnologies",
+    "skills": [
+      "Html",
+      "css",
+      "JavaScript",
+      "PHP",
+      "NodeJS",
+      "React",
+      "SQL"
+    ],
+    "city": "Ikeja, Lagos Nigeria",
+    "github": "Adroit11",
+    "email": "kamponistullar@gmail.com"
   }
 ]
