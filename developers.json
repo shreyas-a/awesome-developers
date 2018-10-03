@@ -29,6 +29,13 @@
     "email": "abattisson@gmail.com"
   },
   {
+    "name": "Shubhankar Chandra Banerjee",
+    "skills": ["Javascript", "CSS3", "HTML5", "BootStrap", "Git"],
+    "city": "Ghaziabad, India",
+    "github": "shubhankarb180",
+    "email": "shubhankarb180@gmail.com"
+  },
+  {
     "name": "Perdana Adhitama",
     "company": "Source Create",
     "skills": ["Javascript", "PHP", "CSS", "MySQL", "Ruby"],
