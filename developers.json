@@ -903,5 +903,13 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "John Rogers",
+    "company": "Deputy.com",
+    "skills": ["swift"],
+    "github": "johnrogers",
+    "city": "Sydney, Australia",
+    "email": "johnrogers1@gmail.com"
   }
 ]
