@@ -13,6 +13,14 @@
     "email": "yogi15blr@gmail.com"
   },
   {
+    "name": "Vanya Grover"
+    "company": "Larsen&Toubro Infotech",
+    "skills": ["JavaScript", "Java", "Bootstrap", "CSS"],
+    "github": "VanyaGrover",
+    "city": "New Delhi"
+    "email": "vanyagrover96@gmail.com"
+  },
+  {
     "name": "Michael Koek",
     "company": "Saxum",
     "skills": ["JavaScript", "VueJS", "Angular", "SASS/SCSS", "CSS"],
