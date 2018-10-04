@@ -903,5 +903,13 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Ohm Sainz",
+    "company": "Grupo Omnilife-Chivas",
+    "skills": ["HTML", "CSS", "JavaScript", "VueJS", "NodeJS", "MySQL"],
+    "city": "Guadalajara, México",
+    "github": "OhmSainz",
+    "email": "ohmsainz@gmail.com"
   }
 ]
