@@ -903,5 +903,13 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Jay Slevin",
+    "company": "",
+    "skills": ["JavaScript"],
+    "github": "AnimeCatgirl",
+    "city": "Internet, Dubai",
+    "email": ""
   }
 ]
