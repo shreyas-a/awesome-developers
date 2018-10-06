@@ -42,19 +42,17 @@ class App extends Component {
   searchDeveloper(event) {
     let updatedList = developers;
     updatedList = updatedList.filter(
-      item =>
-        // TODO: A better comparison condition
-        item.name.toLowerCase().search(event.target.value.toLowerCase()) !==
-        -1 ||
-        item.company.toLowerCase().search(event.target.value.toLowerCase()) !==
-        -1 ||
-        item.city.toLowerCase().search(event.target.value.toLowerCase()) !==
-        -1 ||
-        item.github.toLowerCase().search(event.target.value.toLowerCase()) !==
-        -1 ||
-        item.email.toLowerCase().search(event.target.value.toLowerCase()) !==
-        -1 ||
-        item.skills.find(s => s.toLowerCase().includes(event.target.value.toLowerCase()))
+      item =>{
+        let regex =new RegExp(event.target.value,'gi');
+        if(
+          item.name.match(regex)||
+          item.company.match(regex)||
+          item.city.match(regex)||
+          item.github.match(regex)||
+          item.email.match(regex)||
+          item.skills.find(s=> s.match(regex))
+        ){return item;}
+      }
     );
     this.setState({ developers: updatedList });
   }
