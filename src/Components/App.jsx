@@ -46,11 +46,11 @@ class App extends Component {
         let regex =new RegExp(event.target.value,'gi');
         if(
           item.name.match(regex)||
-          item.company.match(regex)||
-          item.city.match(regex)||
-          item.github.match(regex)||
-          item.email.match(regex)||
-          item.skills.find(s=> s.match(regex))
+          (item.company!=undefined && item.company.match(regex))||
+          (item.city!=undefined && item.city.match(regex))||
+          (item.github!= undefined && item.github.match(regex))||
+          (item.email!=undefined && item.email.match(regex))||
+          (item.skills!=undefined && item.skills.find(s=> s.match(regex)))
         ){return item;}
       }
     );
