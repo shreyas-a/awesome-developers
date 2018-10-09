@@ -2,12 +2,7 @@
   {
     "name": "Yogesh Prasanna",
     "company": "XCM",
-    "skills": [
-      "JavaScript",
-      "React",
-      "SASS/SCSS",
-      "CSS"
-    ],
+    "skills": ["JavaScript", "React", "SASS/SCSS", "CSS"],
     "github": "YogeshPrasanna",
     "city": "Bangalore, India",
     "email": "yogi15blr@gmail.com"
@@ -903,5 +898,13 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Farmin Farzin",
+    "company": "Digital Attitude",
+    "skills": ["NodeJs", "React", "AWS"],
+    "city": "Mailan",
+    "github": "farminf",
+    "email": "farminf@gmail.com"
   }
 ]
