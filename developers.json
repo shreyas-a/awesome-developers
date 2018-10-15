@@ -2,12 +2,7 @@
   {
     "name": "Yogesh Prasanna",
     "company": "XCM",
-    "skills": [
-      "JavaScript",
-      "React",
-      "SASS/SCSS",
-      "CSS"
-    ],
+    "skills": ["JavaScript", "React", "SASS/SCSS", "CSS"],
     "github": "YogeshPrasanna",
     "city": "Bangalore, India",
     "email": "yogi15blr@gmail.com"
@@ -903,5 +898,28 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Parima Ayazi",
+    "company": "Techedge",
+    "skills": [
+      "Android",
+      "Objective C",
+      "Swift",
+      "Java",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "C",
+      "C++",
+      "PHP",
+      "Amazon Web Services",
+      "Google Cloud Platform",
+      "SAP Cloud Platform"
+    ],
+    "github": "parimaay",
+    "city": "Milan, Italy",
+    "email": "parimaayazi@gmail.com"
   }
 ]
