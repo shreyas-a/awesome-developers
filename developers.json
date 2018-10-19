@@ -903,5 +903,21 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Jess Mear",
+    "company": "Endurance",
+    "skills": [
+      "html",
+      "css",
+      "Sass",
+      "JavaScript",
+      "React",
+      "Flux",
+      "Ruby"
+    ],
+    "city": "Phoenix, Arizona",
+    "github": "jessmear",
+    "email": "jessmeardev@gmail.com"
   }
 ]
