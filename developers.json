@@ -13,6 +13,20 @@
     "email": "yogi15blr@gmail.com"
   },
   {
+    "name": "Valentina Abramova",
+    "company": "ClearC2",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "SASS/SCSS",
+      "CSS"
+    ],
+    "github": "valcodes",
+    "city": "Dallas, Tx",
+    "email": "vabramova1@gmail.com"
+  },
+  {
     "name": "Michael Koek",
     "company": "Saxum",
     "skills": ["JavaScript", "VueJS", "Angular", "SASS/SCSS", "CSS"],
