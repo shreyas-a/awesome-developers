@@ -903,5 +903,26 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Thiago Paes",
+    "company": "PayCertify",
+    "skills": [
+      "PHP",
+      "Python",
+      "Arduino",
+      "Html",
+      "CSS",
+      "JavaScript",
+      "AngularJS",
+      "ExpressJS",
+      "NodeJS",
+      "MongoDB",
+      "SQL",
+      "MySql"
+    ],
+    "city": "Florianópolis, Brasil",
+    "github": "mrprompt",
+    "email": "mrprompt@gmail.com"
   }
 ]
