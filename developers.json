@@ -903,5 +903,18 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "Name": "Nicky",
+    "Company": "Unemployed",
+    "Skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "SQL"
+      ],
+    "City": "Perth, Australia",
+    "GitHub": "whysogreen"
   }
 ]
