@@ -39,22 +39,17 @@ class App extends Component {
       });
   }
 
+  filterIt = (arr, searchKey) => {
+    return arr.filter(obj => Object.keys(obj).some((key) =>
+      (
+        (key + "" !== 'company')) ? ((obj[key] + "").toLowerCase()).includes(searchKey.toLowerCase()) : null
+    ));
+  }
+
   searchDeveloper(event) {
-    let updatedList = developers;
-    updatedList = updatedList.filter(
-      item =>{
-        let regex =new RegExp(event.target.value,'gi');
-        if(
-          item.name.match(regex)||
-          (item.company!=undefined && item.company.match(regex))||
-          (item.city!=undefined && item.city.match(regex))||
-          (item.github!= undefined && item.github.match(regex))||
-          (item.email!=undefined && item.email.match(regex))||
-          (item.skills!=undefined && item.skills.find(s=> s.match(regex)))
-        ){return item;}
-      }
-    );
-    this.setState({ developers: updatedList });
+    const updatedList = developers;
+    const result = this.filterIt(updatedList, event.target.value.toString());
+    this.setState({ developers: result });
   }
 
   render() {
