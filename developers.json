@@ -13,6 +13,26 @@
     "email": "yogi15blr@gmail.com"
   },
   {
+    "name": "Alqama Bin Sadiq",
+    "company": "Sudofy",
+    "skills": [
+      "JavaScript",
+      "React",
+      "React Native",
+      "Node.js",
+      "MongoDB",
+      "AWS",
+      "Serverless",
+      "Redux",
+      "HTML5",
+      "SASS/SCSS",
+      "CSS"
+    ],
+    "github": "alqamabinsadiq",
+    "city": "Karachi, Pakistan",
+    "email": "alqamabinsadiq@gmail.com"
+  },
+  {
     "name": "Michael Koek",
     "company": "Saxum",
     "skills": ["JavaScript", "VueJS", "Angular", "SASS/SCSS", "CSS"],
