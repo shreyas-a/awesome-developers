@@ -42,7 +42,7 @@ class App extends Component {
   filterIt = (arr, searchKey) => {
     return arr.filter(obj => Object.keys(obj).some((key) =>
       (
-        (key + "" !== 'company')) ? ((obj[key] + "").toLowerCase()).includes(searchKey.toLowerCase()) : null
+        (key + "" !== 'id')) ? ((obj[key] + "").toLowerCase()).includes(searchKey.toLowerCase()) : null
     ));
   }
 
