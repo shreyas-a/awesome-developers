@@ -903,5 +903,12 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },{
+    "name": "Hitesh Roy",
+    "company": "Cognizant",
+    "skills": ["Javascript", "Angular 2+", "HTML", "NodeJS", "CSS", "Python", "ExpressJS"],
+    "city": "Pune, India",
+    "github": "hiteshpr",
+    "email": "hiteshproy@gmail.com"
   }
 ]
