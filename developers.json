@@ -12,6 +12,20 @@
     "city": "Bangalore, India",
     "email": "yogi15blr@gmail.com"
   },
+   {
+    "name": "Asher Toufeeq",
+    "company": "",
+    "skills": [
+      "JavaScript",
+      "ReactJS",
+      "React Native",
+      "SASS/SCSS",
+      "CSS"
+    ],
+    "github": "ashertoufeeq",
+    "city": "New Delhi, India",
+    "email": "ashertoufeeq@gmail.com"
+  },
   {
     "name": "Michael Koek",
     "company": "Saxum",
