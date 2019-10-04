@@ -903,5 +903,22 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Azriz Haziq Jasni",
+    "company": "Freelance",
+    "skills": [
+      "Html",
+      "css",
+      "JavaScript",
+      "Angular",
+      "NodeJS",
+      "React",
+      "RxJS",
+      "Typescript"
+    ],
+    "city": "Kuala Lumpur, Malaysia",
+    "github": "AzrizHaziq",
+    "email": "azriz@gmail.com"
   }
 ]
