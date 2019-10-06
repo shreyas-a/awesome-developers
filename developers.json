@@ -916,5 +916,17 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Mohd Izzudin",
+    "company": "KerjaMudahJe",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "AWS"
+    ],
+    "city": "Kuala Lumpur, Malaysia",
+    "github": "mohdizzudin",
+    "email": "coffee@gmail.com"
   }
 ]
