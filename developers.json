@@ -13,6 +13,19 @@
     "email": "yogi15blr@gmail.com"
   },
   {
+    "name": "Kamarool Karim",
+    "company": "Lol",
+    "skills": [
+      "JavaScript",
+      "React",
+      "SASS/SCSS",
+      "CSS"
+    ],
+    "github": "kamaroolkarim",
+    "city": "Cyberjaya, Malaysia",
+    "email": "ketum@gmail.com"
+  },
+  {
     "name": "Michael Koek",
     "company": "Saxum",
     "skills": ["JavaScript", "VueJS", "Angular", "SASS/SCSS", "CSS"],
@@ -903,5 +916,17 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Mohd Izzudin",
+    "company": "KerjaMudahJe",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "AWS"
+    ],
+    "city": "Kuala Lumpur, Malaysia",
+    "github": "mohdizzudin",
+    "email": "coffee@gmail.com"
   }
 ]
