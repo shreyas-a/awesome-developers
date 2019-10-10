@@ -1,5 +1,20 @@
 [
   {
+    "name": "Altaha Ansari",
+    "company": "Electronics and Communications Engg @ZHCET,AMU (2022)",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Java",
+      "CSS",
+      "Embedded C",
+      "Node.js"
+    ],
+    "github": "altaha-ansari",
+    "city": "Aligarh, India",
+    "email": "altaha.altaha@gmail.com"
+  },
+  {
     "name": "Yogesh Prasanna",
     "company": "XCM",
     "skills": [
