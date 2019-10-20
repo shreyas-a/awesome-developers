@@ -923,5 +923,18 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Dennis Rufi",
+    "company": "Next Generations Innovations",
+    "skills": [
+      "Android SDK",
+      "Java",
+      "XML",
+      "SQL"
+    ],
+    "github": "dennisrufigill",
+    "city": "Karachi, Pakistan",
+    "email": "rufidennis@gmail.com"
   }
 ]
