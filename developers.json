@@ -923,5 +923,21 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Charles Roh",
+    "company": "BTAS",
+    "skills": [
+      "Html",
+      "CSS",
+      "JavaScript",
+      "VueJS",
+      "KnockoutJS",
+      "Sharepoint",
+      "PHP",
+    ],
+    "city": "Los Angeles, California",
+    "github": "chuckyroh",
+    "email": "chuckyroh@gmail.com"
   }
 ]
