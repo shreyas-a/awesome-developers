@@ -905,6 +905,20 @@
     "email": "kweymeesch@gmail.com"
   },
   {
+    "name": "Leann Kim",
+    "company": "QES",
+    "skills": [
+      "JavaScript", 
+      "React", 
+      "Ruby", 
+      "Rails", 
+      "Python"
+    ],
+    "github": "leannkim11",
+    "city": "New York, NY",
+    "email": "leannmina13@gmail.com"
+  },
+  {
     "name": "Enrike Gonzalo",
     "company": "Irontec",
     "skills": [
