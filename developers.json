@@ -923,5 +923,21 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "PJ Pollina",
+    "company": "N/A",
+    "skills": [
+      "Ruby",
+      "C",
+      "Java",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "MySQL"
+    ],
+    "github": "pjpollina",
+    "city": "Islip, New York",
+    "email": "contact@pjpollina.info"
   }
 ]
