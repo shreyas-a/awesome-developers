@@ -73,6 +73,18 @@
     "email": "kartu8@gmail.com"
   },
   {
+    "name": "Flavia",
+    "email": "flamedici@hotmail.com",
+    "city": "Seattle, WA",
+    "skills":[
+      "JavaScript",
+      "CSS",
+      "NodeJS",
+      "jQuery"
+    ],
+    "github":"flaviamedici"
+  },
+  {
     "name": "Jose Almaraz",
     "company": "Graduated Student From Escuela Superior de Computo",
     "skills": [
