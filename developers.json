@@ -588,6 +588,14 @@
     "email": "tammanoon24@gmail.com"
   },
   {
+    "name": "Dennis Mubamba",
+    "company": "Mika Express Limited",
+    "skills": ["Java", "Php", "React", "MySQL","ReactJS","AWS","Rabbitmq"],
+    "city": "Lusaka, Zambia",
+    "github": "dennism501",
+    "email": "dennism501@outlook.com"
+  },
+  {
     "name": "Wiruj",
     "company": "Just a Developer at integrationWorks Asia",
     "skills": ["Javascript", "Java", "Spring", "Angular"],
