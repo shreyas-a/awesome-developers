@@ -1,5 +1,4 @@
-[
-  {
+[{
     "name": "Yogesh Prasanna",
     "company": "XCM",
     "skills": [
@@ -923,5 +922,24 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Prashanth Nayak",
+    "company": "Thirdeye Inc",
+    "skills": [
+      "Html",
+      "css",
+      "JavaScript",
+      "Angular",
+      "ExpressJS",
+      "NodeJS",
+      "React",
+      "MongoDB",
+      "SQL",
+      "GraphQL"
+    ],
+    "city": "Bengaluru",
+    "github": "snayakprashanth",
+    "email": "snayakprashanth@gmail.com"
   }
 ]
