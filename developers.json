@@ -13,6 +13,18 @@
     "email": "yogi15blr@gmail.com"
   },
   {
+    "name": "Sohail Khan",
+    "company": "India",
+    "skills": [
+      "JavaScript",
+      "React",
+      
+    ],
+    "github": "Sohail-khan786",
+    "city": "Mumbai, India",
+    "email": "khansohail04@gmail.com"
+  },
+  {
     "name": "Alqama Bin Sadiq",
     "company": "Sudofy",
     "skills": [
