@@ -817,6 +817,28 @@
     "email": "adnanfajlur@gmail.com"
   },
   {
+    "name":"Nelson Chinedu",
+    "company":"student",
+    "skills":[
+      "HTML(5)",
+      "CSS(3)",
+      "Bootstrap",
+      "jQuery",
+      "JavaScript",
+      "ReactJs",
+      "React Native",
+      "NodeJs",
+      "Express Js",
+      "MongoDB",
+      "Mysql",
+      "Git",
+      "Php"
+    ],
+    "city":"Lagos Nigeria",
+    "github":"Nelson-Chinedu",
+    "email":""
+  },
+  {
     "name": "Marco Aimo",
     "company": "Todo",
     "skills": ["Html", "css", "JavaScript", "AngularJS", "NodeJS", "Ruby"],
