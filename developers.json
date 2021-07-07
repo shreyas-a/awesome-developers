@@ -923,5 +923,21 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Utkarsh Kunwar",
+    "company": "Student",
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Python",
+      "LaTeX",
+      "shell",
+      "CAD"
+    ],
+    "city": "Mandi",
+    "github": "UtkarshKunwar",
+    "email": ""
   }
 ]
