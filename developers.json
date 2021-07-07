@@ -905,6 +905,21 @@
     "email": "kweymeesch@gmail.com"
   },
   {
+    "name": "Vaibhav Agarwal",
+    "company": "IIT Mandi",
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "PHP",
+      "jQuery"
+    ],
+    "github": "vaibhavagarwal220",
+    "city": "Jaipur, India",
+    "email": "vaibhavagarwal220@gmail.com"
+  },
+  {
     "name": "Enrike Gonzalo",
     "company": "Irontec",
     "skills": [
