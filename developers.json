@@ -923,5 +923,23 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Ben Thompson",
+    "company": "Could be yours!",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "ExpressJS",
+      "NodeJS",
+      "React",
+      "SQL",
+      "SEO"
+    ],
+    "city": "Chicago, IL",
+    "github": "BenThom21",
+    "email": "benthompson4496@gmail.com"
   }
 ]
