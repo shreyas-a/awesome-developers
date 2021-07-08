@@ -923,5 +923,13 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
+  },
+  {
+    "name": "Ravi K Thella",
+    "company": "Brillio",
+    "skills": ["HTML", "CSS", "JavaScript", "jQuery", "React"],
+    "city": "Tampa",
+    "github": "ravikishorethella",
+    "email": ""
   }
 ]
