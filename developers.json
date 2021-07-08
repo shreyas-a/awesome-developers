@@ -923,5 +923,16 @@
     "city": "Atxondo, Basque Country",
     "github": "EnrikeGonzaloLEgarra",
     "email": "enrikeglegarra@gmail.com"
-  }
+},
+{
+  "name": "Ericka Koyama",
+  "company": "Liferay",
+  "skills": [
+    "JavaScript",
+    "css"
+  ],
+  "city": "Pasadena, USA",
+  "github": "erickakoyama",
+  "email": "ericka.koyama@gmail.com"
+}
 ]
